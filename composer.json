@@ -1,0 +1,11 @@
+{
+  "name": "wexample/symfony-accounting-demo",
+  "version": "1.0.0",
+  "type": "library",
+  "license": "MIT",
+  "autoload": {
+    "psr-4": {
+      "Wexample\\SymfonyAccountingDemo\\": "src/"
+    }
+  }
+}
