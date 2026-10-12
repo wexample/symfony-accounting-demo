@@ -1,6 +1,6 @@
 en:
-  page_title: Accounting demo
-  page_icon: ph:bold/calculator
+  page_title: Scenarios
+  page_icon: ph:bold/list-checks
   intro: 'Two made-up ledgers, written on your first visit. Change anything: the screens are the ones an application gets.'
   open: Open the books
   ledger:
