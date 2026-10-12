@@ -1,0 +1,35 @@
+{%- extends '@front/layouts/private/layout.html.twig' -%}
+
+{%- set page_show_title = true -%}
+
+{#- The two demo ledgers, and what to try in each. -#}
+{%- block page_body -%}
+    <p class="lead">{{ '@page::intro' | trans }}</p>
+    <div class="grid accounting-demo">
+        {%- for key, ledger in ledgers -%}
+            <section class="block block--card">
+                <div class="block--title">
+                    <span class="block--title-label">{{ ledger.name }}</span>
+                </div>
+                <div class="block--body stack--vertical">
+                    <p>{{ ('@page::ledger.' ~ key) | trans }}</p>
+                </div>
+                <div class="block--footer">
+                    {{ button_link('ph:bold/calculator', '@page::open' | trans, path('accounting_show', { id: ledger.id }), { class: 'button--invert' }) }}
+                </div>
+            </section>
+        {%- endfor -%}
+    </div>
+    <section class="block block--card">
+        <div class="block--title"><span class="block--title-label">{{ '@page::try.title' | trans }}</span></div>
+        <div class="block--body">
+            <ul>
+                <li>{{ '@page::try.documents' | trans }}</li>
+                <li>{{ '@page::try.editor' | trans }}</li>
+                <li>{{ '@page::try.bank' | trans }}</li>
+                <li>{{ '@page::try.vat' | trans }}</li>
+                <li>{{ '@page::try.close' | trans }}</li>
+            </ul>
+        </div>
+    </section>
+{%- endblock -%}

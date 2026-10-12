@@ -1,0 +1,5 @@
+@use '@wexample/symfony-design-system/css/shapes/block';
+
+.accounting-demo {
+  grid-template-columns: repeat(auto-fit, minmax(18rem, 1fr));
+}

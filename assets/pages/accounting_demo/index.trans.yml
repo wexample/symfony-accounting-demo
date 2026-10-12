@@ -1,0 +1,15 @@
+en:
+  page_title: Accounting demo
+  page_icon: ph:bold/calculator
+  intro: 'Two made-up ledgers, written on your first visit. Change anything: the screens are the ones an application gets.'
+  open: Open the books
+  ledger:
+    fr: A French workshop — French chart of accounts, CA3 VAT returns, FEC export. One invoice paid, one late, a quotation and a draft, a purchase, a bank statement to match.
+    be: A Belgian workshop — Belgian chart of accounts and VAT grid. An invoice, a purchase, a quotation, and a payment carrying its structured reference.
+  try:
+    title: What to try
+    documents: Documents — filter them, open an issued one to read its PDF, issue a credit note, copy one.
+    editor: The draft — add lines and watch the totals, paste rows from a spreadsheet, then issue it.
+    bank: Bank — match the lines, accept a proposal, record a payment by hand, import a statement.
+    vat: VAT — open a period, read its boxes, book its settlement.
+    close: Fiscal years — check the year, then close and reopen it.
