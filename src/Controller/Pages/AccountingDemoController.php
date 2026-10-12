@@ -4,7 +4,6 @@ namespace Wexample\SymfonyAccountingDemo\Controller\Pages;
 
 use Symfony\Component\HttpFoundation\Response;
 use Symfony\Component\Routing\Attribute\Route;
-use Symfony\Component\Security\Http\Attribute\IsGranted;
 use Wexample\SymfonyAccountingDemo\Service\DemoBooksService;
 use Wexample\SymfonyAccountingDemo\Traits\SymfonyAccountingDemoBundleClassTrait;
 use Wexample\SymfonyHelpers\Helper\VariableHelper;
@@ -16,7 +15,6 @@ use Wexample\SymfonyLoader\Controller\AbstractPagesController;
  * do not.
  */
 #[Route(path: '/accounting-demo/', name: 'accounting_demo_')]
-#[IsGranted('IS_AUTHENTICATED')]
 final class AccountingDemoController extends AbstractPagesController
 {
     use SymfonyAccountingDemoBundleClassTrait;
