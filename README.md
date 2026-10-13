@@ -1,10 +1,13 @@
 # symfony-accounting-demo
 
-Version: 1.0.1
+Version: 2.0.0
+
+A demo of symfony-accounting-ds: a French and a Belgian ledger, their documents, a bank statement and a fiscal year
 
 ## Table of Contents
 
 - [Integration in the Suite](#integration-in-the-suite)
+- [Dependencies](#dependencies)
 - [Versioning & Compatibility Policy](#versioning--compatibility-policy)
 - [License](#license)
 - [About us](#about-us)
@@ -19,6 +22,17 @@ This package is part of the Wexample Suite — a collection of high-quality, mod
 The suite includes packages for configuration management, file handling, prompts, and more. Each package can be used independently or as part of the integrated suite.
 
 Visit the [Wexample Suite documentation](https://docs.wexample.com) for the complete package ecosystem.
+
+## Dependencies
+
+- php: >=8.5
+- wexample/symfony-helpers: >=16.0.0
+- wexample/symfony-loader: >=23.0.0
+- wexample/symfony-design-system: >=34.0.0
+- wexample/symfony-accounting: >=6.0.0
+- wexample/symfony-accounting-fr: >=4.0.0
+- wexample/symfony-accounting-be: >=4.0.0
+- wexample/symfony-accounting-ds: >=2.0.0
 
 ## Versioning & Compatibility Policy
 
