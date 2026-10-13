@@ -127,7 +127,9 @@ class DemoBooksService
             ->setPostalAddress('Rue de l\'Exemple 7')
             ->setPostCode('1000')
             ->setCity('Bruxelles')
-            ->setInvoicePrefix('DAT');
+            ->setInvoicePrefix('DAT')
+            // What its annual accounts filed with the National Bank say.
+            ->setSettings(['be_nbb' => ['court' => 'm31', 'last_deed_date' => '2020-01-15']]);
 
         $cafe = $this->party($ledger, 'Café Lumière', 'BE', customer: true, city: 'Liège');
         $print = $this->party($ledger, 'Drukkerij Voorbeeld', 'BE', supplier: true, city: 'Gent');
