@@ -22,6 +22,7 @@ use Wexample\SymfonyAccounting\Service\Invoice\InvoiceFactory;
 use Wexample\SymfonyAccounting\Service\Ledger\ChartService;
 use Wexample\SymfonyAccounting\Service\Ledger\LedgerService;
 use Wexample\SymfonyAccounting\Service\Ledger\PartyService;
+use Wexample\SymfonyGeo\Repository\AddressRepository;
 use Wexample\SymfonyGeo\Repository\CountryRepository;
 
 /**
@@ -41,6 +42,7 @@ class DemoBooksService
         private readonly EntityManagerInterface $entityManager,
         private readonly LedgerRepository $ledgers,
         private readonly CountryRepository $countries,
+        private readonly AddressRepository $addresses,
         private readonly LedgerService $ledgerService,
         private readonly PartyService $partyService,
         private readonly InvoiceFactory $factory,
@@ -78,9 +80,7 @@ class DemoBooksService
             ->setLegalIdentifier('732829320')
             ->setVatNumber('FR44732829320')
             ->setEmail('compta@atelier-demo.example')
-            ->setPostalAddress('12 rue des Exemples')
-            ->setPostCode('69001')
-            ->setCity('Lyon');
+            ->setAddress($this->addresses->createNewAddress('12 rue des Exemples', '69001', 'Lyon', $this->countries->findByIsoAlpha2Code('FR')));
 
         $bakery = $this->party($ledger, 'Boulangerie Martin', 'FR', customer: true, city: 'Lyon');
         $studio = $this->party($ledger, 'Studio Lumen', 'FR', customer: true, city: 'Villeurbanne');
@@ -128,9 +128,7 @@ class DemoBooksService
             ->setLegalIdentifier('0403170701')
             ->setVatNumber('BE0403170701')
             ->setEmail('accounting@demo-atelier.example')
-            ->setPostalAddress('Rue de l\'Exemple 7')
-            ->setPostCode('1000')
-            ->setCity('Bruxelles');
+            ->setAddress($this->addresses->createNewAddress('Rue de l\'Exemple 7', '1000', 'Bruxelles', $this->countries->findByIsoAlpha2Code('BE')));
 
         $cafe = $this->party($ledger, 'Café Lumière', 'BE', customer: true, city: 'Liège');
         $print = $this->party($ledger, 'Drukkerij Voorbeeld', 'BE', supplier: true, city: 'Gent');
@@ -177,7 +175,9 @@ class DemoBooksService
         ?string $city = null,
     ): Party {
         $party = $this->partyService->create($ledger, $name, $customer, $supplier, $this->countries->findByIsoAlpha2Code($country));
-        $party->getOrganization()->setCity($city)->setEmail(strtolower(preg_replace('/[^a-z]+/i', '.', $name)).'@example.com');
+        $party->getOrganization()
+            ->setAddress($this->addresses->createNewAddress(city: $city, country: $this->countries->findByIsoAlpha2Code($country)))
+            ->setEmail(strtolower(preg_replace('/[^a-z]+/i', '.', $name)).'@example.com');
 
         return $party;
     }
