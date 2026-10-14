@@ -72,15 +72,15 @@ class DemoBooksService
 
     private function french(): Ledger
     {
-        $ledger = $this->ledger('Atelier Démo SARL', 'FR', self::FRENCH)
+        $ledger = $this->ledger('Atelier Démo SARL', 'FR', self::FRENCH)->setInvoicePrefix('ATD');
+        $ledger->getOrganization()
             ->setLegalForm('SARL')
             ->setLegalIdentifier('732829320')
             ->setVatNumber('FR44732829320')
             ->setEmail('compta@atelier-demo.example')
             ->setPostalAddress('12 rue des Exemples')
             ->setPostCode('69001')
-            ->setCity('Lyon')
-            ->setInvoicePrefix('ATD');
+            ->setCity('Lyon');
 
         $bakery = $this->party($ledger, 'Boulangerie Martin', 'FR', customer: true, city: 'Lyon');
         $studio = $this->party($ledger, 'Studio Lumen', 'FR', customer: true, city: 'Villeurbanne');
@@ -120,19 +120,26 @@ class DemoBooksService
     private function belgian(): Ledger
     {
         $ledger = $this->ledger('Demo Atelier SRL', 'BE', self::BELGIAN)
+            ->setInvoicePrefix('DAT')
+            // What its annual accounts filed with the National Bank say.
+            ->setSettings(['be_nbb' => ['court' => 'm31', 'last_deed_date' => '2020-01-15']]);
+        $ledger->getOrganization()
             ->setLegalForm('SRL')
-            ->setLegalIdentifier('0403.170.701')
+            ->setLegalIdentifier('0403170701')
             ->setVatNumber('BE0403170701')
             ->setEmail('accounting@demo-atelier.example')
             ->setPostalAddress('Rue de l\'Exemple 7')
             ->setPostCode('1000')
-            ->setCity('Bruxelles')
-            ->setInvoicePrefix('DAT')
-            // What its annual accounts filed with the National Bank say.
-            ->setSettings(['be_nbb' => ['court' => 'm31', 'last_deed_date' => '2020-01-15']]);
+            ->setCity('Bruxelles');
 
         $cafe = $this->party($ledger, 'Café Lumière', 'BE', customer: true, city: 'Liège');
         $print = $this->party($ledger, 'Drukkerij Voorbeeld', 'BE', supplier: true, city: 'Gent');
+
+        // The French atelier is a supplier here: the same organization of the
+        // directory, its identity typed once, for both books.
+        if ($french = $this->find(self::FRENCH)) {
+            $this->partyService->findOrCreate($ledger, $french->getOrganization(), customer: false, supplier: true);
+        }
 
         $bill = $this->sale($ledger, $cafe, '-45 days', 'Terrace signage', [['Signage design', 55000, 100], ['Installation', 12000, 200]]);
         $this->purchase($ledger, $print, 'DV-26-118', '-25 days', 'Printing', [['Posters, A2', 450, 4000]]);
@@ -170,7 +177,7 @@ class DemoBooksService
         ?string $city = null,
     ): Party {
         $party = $this->partyService->create($ledger, $name, $customer, $supplier, $this->countries->findByIsoAlpha2Code($country));
-        $party->setCity($city)->setEmail(strtolower(preg_replace('/[^a-z]+/i', '.', $name)).'@example.com');
+        $party->getOrganization()->setCity($city)->setEmail(strtolower(preg_replace('/[^a-z]+/i', '.', $name)).'@example.com');
 
         return $party;
     }

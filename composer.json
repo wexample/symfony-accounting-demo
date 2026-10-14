@@ -28,7 +28,8 @@
     "wexample/symfony-accounting": ">=6.0.0",
     "wexample/symfony-accounting-fr": ">=4.0.0",
     "wexample/symfony-accounting-be": ">=4.0.0",
-    "wexample/symfony-accounting-ds": ">=2.0.0"
+    "wexample/symfony-accounting-ds": ">=2.0.0",
+    "wexample/symfony-organization": ">=1.0.1"
   },
   "require-dev": {
     "phpunit/phpunit": "^13"
