@@ -25,11 +25,11 @@
     "wexample/symfony-helpers": ">=16.0.0",
     "wexample/symfony-loader": ">=23.0.0",
     "wexample/symfony-design-system": ">=35.0.0",
-    "wexample/symfony-accounting": ">=6.0.0",
+    "wexample/symfony-accounting": ">=7.0.0",
     "wexample/symfony-accounting-fr": ">=4.0.0",
     "wexample/symfony-accounting-be": ">=4.0.0",
     "wexample/symfony-accounting-ds": ">=2.0.0",
-    "wexample/symfony-organization": ">=1.0.1"
+    "wexample/symfony-organization": ">=2.0.0"
   },
   "require-dev": {
     "phpunit/phpunit": "^13"
