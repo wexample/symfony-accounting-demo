@@ -1,5 +1,1005 @@
 {
+    "pages/accounting_demo/index.ar.yml": {
+        "intro": {
+            "hash": "c786b235521347de905a3992131b8122",
+            "engine": "syrtis"
+        },
+        "ledger.be": {
+            "hash": "dc01e2cfc4b0a05e79d9eaef47eedb48",
+            "engine": "syrtis"
+        },
+        "ledger.fr": {
+            "hash": "947e91d4840cb099c0bae35d1e096e2f",
+            "engine": "syrtis"
+        },
+        "open": {
+            "hash": "19e91c7d4ec13f5490eac2e23c1cca65",
+            "engine": "syrtis"
+        },
+        "page_icon": {
+            "hash": "68f56a5a225064715b39227825bad428",
+            "engine": "syrtis"
+        },
+        "page_title": {
+            "hash": "a6942fc2e03b73630d5fbb18c4f66e8f",
+            "engine": "syrtis"
+        },
+        "try.bank": {
+            "hash": "5dece7717013c9bd202b794e56f11009",
+            "engine": "syrtis"
+        },
+        "try.close": {
+            "hash": "7abdc7b820cb17d293680e4373478dda",
+            "engine": "syrtis"
+        },
+        "try.documents": {
+            "hash": "03252047d7270be2e908263b585b45ad",
+            "engine": "syrtis"
+        },
+        "try.editor": {
+            "hash": "fc74322d06c9b3cf3cecf39da49839d3",
+            "engine": "syrtis"
+        },
+        "try.title": {
+            "hash": "b71c268d741ee49b752f928266f09e64",
+            "engine": "syrtis"
+        },
+        "try.vat": {
+            "hash": "e38604e5ea318a04bd633fa56f70b33f",
+            "engine": "syrtis"
+        }
+    },
+    "pages/accounting_demo/index.bn.yml": {
+        "intro": {
+            "hash": "c786b235521347de905a3992131b8122",
+            "engine": "syrtis"
+        },
+        "ledger.be": {
+            "hash": "dc01e2cfc4b0a05e79d9eaef47eedb48",
+            "engine": "syrtis"
+        },
+        "ledger.fr": {
+            "hash": "947e91d4840cb099c0bae35d1e096e2f",
+            "engine": "syrtis"
+        },
+        "open": {
+            "hash": "19e91c7d4ec13f5490eac2e23c1cca65",
+            "engine": "syrtis"
+        },
+        "page_icon": {
+            "hash": "68f56a5a225064715b39227825bad428",
+            "engine": "syrtis"
+        },
+        "page_title": {
+            "hash": "a6942fc2e03b73630d5fbb18c4f66e8f",
+            "engine": "syrtis"
+        },
+        "try.bank": {
+            "hash": "5dece7717013c9bd202b794e56f11009",
+            "engine": "syrtis"
+        },
+        "try.close": {
+            "hash": "7abdc7b820cb17d293680e4373478dda",
+            "engine": "syrtis"
+        },
+        "try.documents": {
+            "hash": "03252047d7270be2e908263b585b45ad",
+            "engine": "syrtis"
+        },
+        "try.editor": {
+            "hash": "fc74322d06c9b3cf3cecf39da49839d3",
+            "engine": "syrtis"
+        },
+        "try.title": {
+            "hash": "b71c268d741ee49b752f928266f09e64",
+            "engine": "syrtis"
+        },
+        "try.vat": {
+            "hash": "e38604e5ea318a04bd633fa56f70b33f",
+            "engine": "syrtis"
+        }
+    },
+    "pages/accounting_demo/index.de.yml": {
+        "intro": {
+            "hash": "c786b235521347de905a3992131b8122",
+            "engine": "syrtis"
+        },
+        "ledger.be": {
+            "hash": "dc01e2cfc4b0a05e79d9eaef47eedb48",
+            "engine": "syrtis"
+        },
+        "ledger.fr": {
+            "hash": "947e91d4840cb099c0bae35d1e096e2f",
+            "engine": "syrtis"
+        },
+        "open": {
+            "hash": "19e91c7d4ec13f5490eac2e23c1cca65",
+            "engine": "syrtis"
+        },
+        "page_icon": {
+            "hash": "68f56a5a225064715b39227825bad428",
+            "engine": "syrtis"
+        },
+        "page_title": {
+            "hash": "a6942fc2e03b73630d5fbb18c4f66e8f",
+            "engine": "syrtis"
+        },
+        "try.bank": {
+            "hash": "5dece7717013c9bd202b794e56f11009",
+            "engine": "syrtis"
+        },
+        "try.close": {
+            "hash": "7abdc7b820cb17d293680e4373478dda",
+            "engine": "syrtis"
+        },
+        "try.documents": {
+            "hash": "03252047d7270be2e908263b585b45ad",
+            "engine": "syrtis"
+        },
+        "try.editor": {
+            "hash": "fc74322d06c9b3cf3cecf39da49839d3",
+            "engine": "syrtis"
+        },
+        "try.title": {
+            "hash": "b71c268d741ee49b752f928266f09e64",
+            "engine": "syrtis"
+        },
+        "try.vat": {
+            "hash": "e38604e5ea318a04bd633fa56f70b33f",
+            "engine": "syrtis"
+        }
+    },
+    "pages/accounting_demo/index.es.yml": {
+        "intro": {
+            "hash": "c786b235521347de905a3992131b8122",
+            "engine": "syrtis"
+        },
+        "ledger.be": {
+            "hash": "dc01e2cfc4b0a05e79d9eaef47eedb48",
+            "engine": "syrtis"
+        },
+        "ledger.fr": {
+            "hash": "947e91d4840cb099c0bae35d1e096e2f",
+            "engine": "syrtis"
+        },
+        "open": {
+            "hash": "19e91c7d4ec13f5490eac2e23c1cca65",
+            "engine": "syrtis"
+        },
+        "page_icon": {
+            "hash": "68f56a5a225064715b39227825bad428",
+            "engine": "syrtis"
+        },
+        "page_title": {
+            "hash": "a6942fc2e03b73630d5fbb18c4f66e8f",
+            "engine": "syrtis"
+        },
+        "try.bank": {
+            "hash": "5dece7717013c9bd202b794e56f11009",
+            "engine": "syrtis"
+        },
+        "try.close": {
+            "hash": "7abdc7b820cb17d293680e4373478dda",
+            "engine": "syrtis"
+        },
+        "try.documents": {
+            "hash": "03252047d7270be2e908263b585b45ad",
+            "engine": "syrtis"
+        },
+        "try.editor": {
+            "hash": "fc74322d06c9b3cf3cecf39da49839d3",
+            "engine": "syrtis"
+        },
+        "try.title": {
+            "hash": "b71c268d741ee49b752f928266f09e64",
+            "engine": "syrtis"
+        },
+        "try.vat": {
+            "hash": "e38604e5ea318a04bd633fa56f70b33f",
+            "engine": "syrtis"
+        }
+    },
+    "pages/accounting_demo/index.fa.yml": {
+        "intro": {
+            "hash": "c786b235521347de905a3992131b8122",
+            "engine": "syrtis"
+        },
+        "ledger.be": {
+            "hash": "dc01e2cfc4b0a05e79d9eaef47eedb48",
+            "engine": "syrtis"
+        },
+        "ledger.fr": {
+            "hash": "947e91d4840cb099c0bae35d1e096e2f",
+            "engine": "syrtis"
+        },
+        "open": {
+            "hash": "19e91c7d4ec13f5490eac2e23c1cca65",
+            "engine": "syrtis"
+        },
+        "page_icon": {
+            "hash": "68f56a5a225064715b39227825bad428",
+            "engine": "syrtis"
+        },
+        "page_title": {
+            "hash": "a6942fc2e03b73630d5fbb18c4f66e8f",
+            "engine": "syrtis"
+        },
+        "try.bank": {
+            "hash": "5dece7717013c9bd202b794e56f11009",
+            "engine": "syrtis"
+        },
+        "try.close": {
+            "hash": "7abdc7b820cb17d293680e4373478dda",
+            "engine": "syrtis"
+        },
+        "try.documents": {
+            "hash": "03252047d7270be2e908263b585b45ad",
+            "engine": "syrtis"
+        },
+        "try.editor": {
+            "hash": "fc74322d06c9b3cf3cecf39da49839d3",
+            "engine": "syrtis"
+        },
+        "try.title": {
+            "hash": "b71c268d741ee49b752f928266f09e64",
+            "engine": "syrtis"
+        },
+        "try.vat": {
+            "hash": "e38604e5ea318a04bd633fa56f70b33f",
+            "engine": "syrtis"
+        }
+    },
+    "pages/accounting_demo/index.fi.yml": {
+        "intro": {
+            "hash": "c786b235521347de905a3992131b8122",
+            "engine": "syrtis"
+        },
+        "ledger.be": {
+            "hash": "dc01e2cfc4b0a05e79d9eaef47eedb48",
+            "engine": "syrtis"
+        },
+        "ledger.fr": {
+            "hash": "947e91d4840cb099c0bae35d1e096e2f",
+            "engine": "syrtis"
+        },
+        "open": {
+            "hash": "19e91c7d4ec13f5490eac2e23c1cca65",
+            "engine": "syrtis"
+        },
+        "page_icon": {
+            "hash": "68f56a5a225064715b39227825bad428",
+            "engine": "syrtis"
+        },
+        "page_title": {
+            "hash": "a6942fc2e03b73630d5fbb18c4f66e8f",
+            "engine": "syrtis"
+        },
+        "try.bank": {
+            "hash": "5dece7717013c9bd202b794e56f11009",
+            "engine": "syrtis"
+        },
+        "try.close": {
+            "hash": "7abdc7b820cb17d293680e4373478dda",
+            "engine": "syrtis"
+        },
+        "try.documents": {
+            "hash": "03252047d7270be2e908263b585b45ad",
+            "engine": "syrtis"
+        },
+        "try.editor": {
+            "hash": "fc74322d06c9b3cf3cecf39da49839d3",
+            "engine": "syrtis"
+        },
+        "try.title": {
+            "hash": "b71c268d741ee49b752f928266f09e64",
+            "engine": "syrtis"
+        },
+        "try.vat": {
+            "hash": "e38604e5ea318a04bd633fa56f70b33f",
+            "engine": "syrtis"
+        }
+    },
     "pages/accounting_demo/index.fr.yml": {
+        "intro": {
+            "hash": "c786b235521347de905a3992131b8122",
+            "engine": "syrtis"
+        },
+        "ledger.be": {
+            "hash": "dc01e2cfc4b0a05e79d9eaef47eedb48",
+            "engine": "syrtis"
+        },
+        "ledger.fr": {
+            "hash": "947e91d4840cb099c0bae35d1e096e2f",
+            "engine": "syrtis"
+        },
+        "open": {
+            "hash": "19e91c7d4ec13f5490eac2e23c1cca65",
+            "engine": "syrtis"
+        },
+        "page_icon": {
+            "hash": "68f56a5a225064715b39227825bad428",
+            "engine": "syrtis"
+        },
+        "page_title": {
+            "hash": "a6942fc2e03b73630d5fbb18c4f66e8f",
+            "engine": "syrtis"
+        },
+        "try.bank": {
+            "hash": "5dece7717013c9bd202b794e56f11009",
+            "engine": "syrtis"
+        },
+        "try.close": {
+            "hash": "7abdc7b820cb17d293680e4373478dda",
+            "engine": "syrtis"
+        },
+        "try.documents": {
+            "hash": "03252047d7270be2e908263b585b45ad",
+            "engine": "syrtis"
+        },
+        "try.editor": {
+            "hash": "fc74322d06c9b3cf3cecf39da49839d3",
+            "engine": "syrtis"
+        },
+        "try.title": {
+            "hash": "b71c268d741ee49b752f928266f09e64",
+            "engine": "syrtis"
+        },
+        "try.vat": {
+            "hash": "e38604e5ea318a04bd633fa56f70b33f",
+            "engine": "syrtis"
+        }
+    },
+    "pages/accounting_demo/index.he.yml": {
+        "intro": {
+            "hash": "c786b235521347de905a3992131b8122",
+            "engine": "syrtis"
+        },
+        "ledger.be": {
+            "hash": "dc01e2cfc4b0a05e79d9eaef47eedb48",
+            "engine": "syrtis"
+        },
+        "ledger.fr": {
+            "hash": "947e91d4840cb099c0bae35d1e096e2f",
+            "engine": "syrtis"
+        },
+        "open": {
+            "hash": "19e91c7d4ec13f5490eac2e23c1cca65",
+            "engine": "syrtis"
+        },
+        "page_icon": {
+            "hash": "68f56a5a225064715b39227825bad428",
+            "engine": "syrtis"
+        },
+        "page_title": {
+            "hash": "a6942fc2e03b73630d5fbb18c4f66e8f",
+            "engine": "syrtis"
+        },
+        "try.bank": {
+            "hash": "5dece7717013c9bd202b794e56f11009",
+            "engine": "syrtis"
+        },
+        "try.close": {
+            "hash": "7abdc7b820cb17d293680e4373478dda",
+            "engine": "syrtis"
+        },
+        "try.documents": {
+            "hash": "03252047d7270be2e908263b585b45ad",
+            "engine": "syrtis"
+        },
+        "try.editor": {
+            "hash": "fc74322d06c9b3cf3cecf39da49839d3",
+            "engine": "syrtis"
+        },
+        "try.title": {
+            "hash": "b71c268d741ee49b752f928266f09e64",
+            "engine": "syrtis"
+        },
+        "try.vat": {
+            "hash": "e38604e5ea318a04bd633fa56f70b33f",
+            "engine": "syrtis"
+        }
+    },
+    "pages/accounting_demo/index.hi.yml": {
+        "intro": {
+            "hash": "c786b235521347de905a3992131b8122",
+            "engine": "syrtis"
+        },
+        "ledger.be": {
+            "hash": "dc01e2cfc4b0a05e79d9eaef47eedb48",
+            "engine": "syrtis"
+        },
+        "ledger.fr": {
+            "hash": "947e91d4840cb099c0bae35d1e096e2f",
+            "engine": "syrtis"
+        },
+        "open": {
+            "hash": "19e91c7d4ec13f5490eac2e23c1cca65",
+            "engine": "syrtis"
+        },
+        "page_icon": {
+            "hash": "68f56a5a225064715b39227825bad428",
+            "engine": "syrtis"
+        },
+        "page_title": {
+            "hash": "a6942fc2e03b73630d5fbb18c4f66e8f",
+            "engine": "syrtis"
+        },
+        "try.bank": {
+            "hash": "5dece7717013c9bd202b794e56f11009",
+            "engine": "syrtis"
+        },
+        "try.close": {
+            "hash": "7abdc7b820cb17d293680e4373478dda",
+            "engine": "syrtis"
+        },
+        "try.documents": {
+            "hash": "03252047d7270be2e908263b585b45ad",
+            "engine": "syrtis"
+        },
+        "try.editor": {
+            "hash": "fc74322d06c9b3cf3cecf39da49839d3",
+            "engine": "syrtis"
+        },
+        "try.title": {
+            "hash": "b71c268d741ee49b752f928266f09e64",
+            "engine": "syrtis"
+        },
+        "try.vat": {
+            "hash": "e38604e5ea318a04bd633fa56f70b33f",
+            "engine": "syrtis"
+        }
+    },
+    "pages/accounting_demo/index.id.yml": {
+        "intro": {
+            "hash": "c786b235521347de905a3992131b8122",
+            "engine": "syrtis"
+        },
+        "ledger.be": {
+            "hash": "dc01e2cfc4b0a05e79d9eaef47eedb48",
+            "engine": "syrtis"
+        },
+        "ledger.fr": {
+            "hash": "947e91d4840cb099c0bae35d1e096e2f",
+            "engine": "syrtis"
+        },
+        "open": {
+            "hash": "19e91c7d4ec13f5490eac2e23c1cca65",
+            "engine": "syrtis"
+        },
+        "page_icon": {
+            "hash": "68f56a5a225064715b39227825bad428",
+            "engine": "syrtis"
+        },
+        "page_title": {
+            "hash": "a6942fc2e03b73630d5fbb18c4f66e8f",
+            "engine": "syrtis"
+        },
+        "try.bank": {
+            "hash": "5dece7717013c9bd202b794e56f11009",
+            "engine": "syrtis"
+        },
+        "try.close": {
+            "hash": "7abdc7b820cb17d293680e4373478dda",
+            "engine": "syrtis"
+        },
+        "try.documents": {
+            "hash": "03252047d7270be2e908263b585b45ad",
+            "engine": "syrtis"
+        },
+        "try.editor": {
+            "hash": "fc74322d06c9b3cf3cecf39da49839d3",
+            "engine": "syrtis"
+        },
+        "try.title": {
+            "hash": "b71c268d741ee49b752f928266f09e64",
+            "engine": "syrtis"
+        },
+        "try.vat": {
+            "hash": "e38604e5ea318a04bd633fa56f70b33f",
+            "engine": "syrtis"
+        }
+    },
+    "pages/accounting_demo/index.it.yml": {
+        "intro": {
+            "hash": "c786b235521347de905a3992131b8122",
+            "engine": "syrtis"
+        },
+        "ledger.be": {
+            "hash": "dc01e2cfc4b0a05e79d9eaef47eedb48",
+            "engine": "syrtis"
+        },
+        "ledger.fr": {
+            "hash": "947e91d4840cb099c0bae35d1e096e2f",
+            "engine": "syrtis"
+        },
+        "open": {
+            "hash": "19e91c7d4ec13f5490eac2e23c1cca65",
+            "engine": "syrtis"
+        },
+        "page_icon": {
+            "hash": "68f56a5a225064715b39227825bad428",
+            "engine": "syrtis"
+        },
+        "page_title": {
+            "hash": "a6942fc2e03b73630d5fbb18c4f66e8f",
+            "engine": "syrtis"
+        },
+        "try.bank": {
+            "hash": "5dece7717013c9bd202b794e56f11009",
+            "engine": "syrtis"
+        },
+        "try.close": {
+            "hash": "7abdc7b820cb17d293680e4373478dda",
+            "engine": "syrtis"
+        },
+        "try.documents": {
+            "hash": "03252047d7270be2e908263b585b45ad",
+            "engine": "syrtis"
+        },
+        "try.editor": {
+            "hash": "fc74322d06c9b3cf3cecf39da49839d3",
+            "engine": "syrtis"
+        },
+        "try.title": {
+            "hash": "b71c268d741ee49b752f928266f09e64",
+            "engine": "syrtis"
+        },
+        "try.vat": {
+            "hash": "e38604e5ea318a04bd633fa56f70b33f",
+            "engine": "syrtis"
+        }
+    },
+    "pages/accounting_demo/index.ja.yml": {
+        "intro": {
+            "hash": "c786b235521347de905a3992131b8122",
+            "engine": "syrtis"
+        },
+        "ledger.be": {
+            "hash": "dc01e2cfc4b0a05e79d9eaef47eedb48",
+            "engine": "syrtis"
+        },
+        "ledger.fr": {
+            "hash": "947e91d4840cb099c0bae35d1e096e2f",
+            "engine": "syrtis"
+        },
+        "open": {
+            "hash": "19e91c7d4ec13f5490eac2e23c1cca65",
+            "engine": "syrtis"
+        },
+        "page_icon": {
+            "hash": "68f56a5a225064715b39227825bad428",
+            "engine": "syrtis"
+        },
+        "page_title": {
+            "hash": "a6942fc2e03b73630d5fbb18c4f66e8f",
+            "engine": "syrtis"
+        },
+        "try.bank": {
+            "hash": "5dece7717013c9bd202b794e56f11009",
+            "engine": "syrtis"
+        },
+        "try.close": {
+            "hash": "7abdc7b820cb17d293680e4373478dda",
+            "engine": "syrtis"
+        },
+        "try.documents": {
+            "hash": "03252047d7270be2e908263b585b45ad",
+            "engine": "syrtis"
+        },
+        "try.editor": {
+            "hash": "fc74322d06c9b3cf3cecf39da49839d3",
+            "engine": "syrtis"
+        },
+        "try.title": {
+            "hash": "b71c268d741ee49b752f928266f09e64",
+            "engine": "syrtis"
+        },
+        "try.vat": {
+            "hash": "e38604e5ea318a04bd633fa56f70b33f",
+            "engine": "syrtis"
+        }
+    },
+    "pages/accounting_demo/index.ko.yml": {
+        "intro": {
+            "hash": "c786b235521347de905a3992131b8122",
+            "engine": "syrtis"
+        },
+        "ledger.be": {
+            "hash": "dc01e2cfc4b0a05e79d9eaef47eedb48",
+            "engine": "syrtis"
+        },
+        "ledger.fr": {
+            "hash": "947e91d4840cb099c0bae35d1e096e2f",
+            "engine": "syrtis"
+        },
+        "open": {
+            "hash": "19e91c7d4ec13f5490eac2e23c1cca65",
+            "engine": "syrtis"
+        },
+        "page_icon": {
+            "hash": "68f56a5a225064715b39227825bad428",
+            "engine": "syrtis"
+        },
+        "page_title": {
+            "hash": "a6942fc2e03b73630d5fbb18c4f66e8f",
+            "engine": "syrtis"
+        },
+        "try.bank": {
+            "hash": "5dece7717013c9bd202b794e56f11009",
+            "engine": "syrtis"
+        },
+        "try.close": {
+            "hash": "7abdc7b820cb17d293680e4373478dda",
+            "engine": "syrtis"
+        },
+        "try.documents": {
+            "hash": "03252047d7270be2e908263b585b45ad",
+            "engine": "syrtis"
+        },
+        "try.editor": {
+            "hash": "fc74322d06c9b3cf3cecf39da49839d3",
+            "engine": "syrtis"
+        },
+        "try.title": {
+            "hash": "b71c268d741ee49b752f928266f09e64",
+            "engine": "syrtis"
+        },
+        "try.vat": {
+            "hash": "e38604e5ea318a04bd633fa56f70b33f",
+            "engine": "syrtis"
+        }
+    },
+    "pages/accounting_demo/index.nl.yml": {
+        "intro": {
+            "hash": "c786b235521347de905a3992131b8122",
+            "engine": "syrtis"
+        },
+        "ledger.be": {
+            "hash": "dc01e2cfc4b0a05e79d9eaef47eedb48",
+            "engine": "syrtis"
+        },
+        "ledger.fr": {
+            "hash": "947e91d4840cb099c0bae35d1e096e2f",
+            "engine": "syrtis"
+        },
+        "open": {
+            "hash": "19e91c7d4ec13f5490eac2e23c1cca65",
+            "engine": "syrtis"
+        },
+        "page_icon": {
+            "hash": "68f56a5a225064715b39227825bad428",
+            "engine": "syrtis"
+        },
+        "page_title": {
+            "hash": "a6942fc2e03b73630d5fbb18c4f66e8f",
+            "engine": "syrtis"
+        },
+        "try.bank": {
+            "hash": "5dece7717013c9bd202b794e56f11009",
+            "engine": "syrtis"
+        },
+        "try.close": {
+            "hash": "7abdc7b820cb17d293680e4373478dda",
+            "engine": "syrtis"
+        },
+        "try.documents": {
+            "hash": "03252047d7270be2e908263b585b45ad",
+            "engine": "syrtis"
+        },
+        "try.editor": {
+            "hash": "fc74322d06c9b3cf3cecf39da49839d3",
+            "engine": "syrtis"
+        },
+        "try.title": {
+            "hash": "b71c268d741ee49b752f928266f09e64",
+            "engine": "syrtis"
+        },
+        "try.vat": {
+            "hash": "e38604e5ea318a04bd633fa56f70b33f",
+            "engine": "syrtis"
+        }
+    },
+    "pages/accounting_demo/index.pl.yml": {
+        "intro": {
+            "hash": "c786b235521347de905a3992131b8122",
+            "engine": "syrtis"
+        },
+        "ledger.be": {
+            "hash": "dc01e2cfc4b0a05e79d9eaef47eedb48",
+            "engine": "syrtis"
+        },
+        "ledger.fr": {
+            "hash": "947e91d4840cb099c0bae35d1e096e2f",
+            "engine": "syrtis"
+        },
+        "open": {
+            "hash": "19e91c7d4ec13f5490eac2e23c1cca65",
+            "engine": "syrtis"
+        },
+        "page_icon": {
+            "hash": "68f56a5a225064715b39227825bad428",
+            "engine": "syrtis"
+        },
+        "page_title": {
+            "hash": "a6942fc2e03b73630d5fbb18c4f66e8f",
+            "engine": "syrtis"
+        },
+        "try.bank": {
+            "hash": "5dece7717013c9bd202b794e56f11009",
+            "engine": "syrtis"
+        },
+        "try.close": {
+            "hash": "7abdc7b820cb17d293680e4373478dda",
+            "engine": "syrtis"
+        },
+        "try.documents": {
+            "hash": "03252047d7270be2e908263b585b45ad",
+            "engine": "syrtis"
+        },
+        "try.editor": {
+            "hash": "fc74322d06c9b3cf3cecf39da49839d3",
+            "engine": "syrtis"
+        },
+        "try.title": {
+            "hash": "b71c268d741ee49b752f928266f09e64",
+            "engine": "syrtis"
+        },
+        "try.vat": {
+            "hash": "e38604e5ea318a04bd633fa56f70b33f",
+            "engine": "syrtis"
+        }
+    },
+    "pages/accounting_demo/index.pt_BR.yml": {
+        "intro": {
+            "hash": "c786b235521347de905a3992131b8122",
+            "engine": "syrtis"
+        },
+        "ledger.be": {
+            "hash": "dc01e2cfc4b0a05e79d9eaef47eedb48",
+            "engine": "syrtis"
+        },
+        "ledger.fr": {
+            "hash": "947e91d4840cb099c0bae35d1e096e2f",
+            "engine": "syrtis"
+        },
+        "open": {
+            "hash": "19e91c7d4ec13f5490eac2e23c1cca65",
+            "engine": "syrtis"
+        },
+        "page_icon": {
+            "hash": "68f56a5a225064715b39227825bad428",
+            "engine": "syrtis"
+        },
+        "page_title": {
+            "hash": "a6942fc2e03b73630d5fbb18c4f66e8f",
+            "engine": "syrtis"
+        },
+        "try.bank": {
+            "hash": "5dece7717013c9bd202b794e56f11009",
+            "engine": "syrtis"
+        },
+        "try.close": {
+            "hash": "7abdc7b820cb17d293680e4373478dda",
+            "engine": "syrtis"
+        },
+        "try.documents": {
+            "hash": "03252047d7270be2e908263b585b45ad",
+            "engine": "syrtis"
+        },
+        "try.editor": {
+            "hash": "fc74322d06c9b3cf3cecf39da49839d3",
+            "engine": "syrtis"
+        },
+        "try.title": {
+            "hash": "b71c268d741ee49b752f928266f09e64",
+            "engine": "syrtis"
+        },
+        "try.vat": {
+            "hash": "e38604e5ea318a04bd633fa56f70b33f",
+            "engine": "syrtis"
+        }
+    },
+    "pages/accounting_demo/index.ru.yml": {
+        "intro": {
+            "hash": "c786b235521347de905a3992131b8122",
+            "engine": "syrtis"
+        },
+        "ledger.be": {
+            "hash": "dc01e2cfc4b0a05e79d9eaef47eedb48",
+            "engine": "syrtis"
+        },
+        "ledger.fr": {
+            "hash": "947e91d4840cb099c0bae35d1e096e2f",
+            "engine": "syrtis"
+        },
+        "open": {
+            "hash": "19e91c7d4ec13f5490eac2e23c1cca65",
+            "engine": "syrtis"
+        },
+        "page_icon": {
+            "hash": "68f56a5a225064715b39227825bad428",
+            "engine": "syrtis"
+        },
+        "page_title": {
+            "hash": "a6942fc2e03b73630d5fbb18c4f66e8f",
+            "engine": "syrtis"
+        },
+        "try.bank": {
+            "hash": "5dece7717013c9bd202b794e56f11009",
+            "engine": "syrtis"
+        },
+        "try.close": {
+            "hash": "7abdc7b820cb17d293680e4373478dda",
+            "engine": "syrtis"
+        },
+        "try.documents": {
+            "hash": "03252047d7270be2e908263b585b45ad",
+            "engine": "syrtis"
+        },
+        "try.editor": {
+            "hash": "fc74322d06c9b3cf3cecf39da49839d3",
+            "engine": "syrtis"
+        },
+        "try.title": {
+            "hash": "b71c268d741ee49b752f928266f09e64",
+            "engine": "syrtis"
+        },
+        "try.vat": {
+            "hash": "e38604e5ea318a04bd633fa56f70b33f",
+            "engine": "syrtis"
+        }
+    },
+    "pages/accounting_demo/index.th.yml": {
+        "intro": {
+            "hash": "c786b235521347de905a3992131b8122",
+            "engine": "syrtis"
+        },
+        "ledger.be": {
+            "hash": "dc01e2cfc4b0a05e79d9eaef47eedb48",
+            "engine": "syrtis"
+        },
+        "ledger.fr": {
+            "hash": "947e91d4840cb099c0bae35d1e096e2f",
+            "engine": "syrtis"
+        },
+        "open": {
+            "hash": "19e91c7d4ec13f5490eac2e23c1cca65",
+            "engine": "syrtis"
+        },
+        "page_icon": {
+            "hash": "68f56a5a225064715b39227825bad428",
+            "engine": "syrtis"
+        },
+        "page_title": {
+            "hash": "a6942fc2e03b73630d5fbb18c4f66e8f",
+            "engine": "syrtis"
+        },
+        "try.bank": {
+            "hash": "5dece7717013c9bd202b794e56f11009",
+            "engine": "syrtis"
+        },
+        "try.close": {
+            "hash": "7abdc7b820cb17d293680e4373478dda",
+            "engine": "syrtis"
+        },
+        "try.documents": {
+            "hash": "03252047d7270be2e908263b585b45ad",
+            "engine": "syrtis"
+        },
+        "try.editor": {
+            "hash": "fc74322d06c9b3cf3cecf39da49839d3",
+            "engine": "syrtis"
+        },
+        "try.title": {
+            "hash": "b71c268d741ee49b752f928266f09e64",
+            "engine": "syrtis"
+        },
+        "try.vat": {
+            "hash": "e38604e5ea318a04bd633fa56f70b33f",
+            "engine": "syrtis"
+        }
+    },
+    "pages/accounting_demo/index.tr.yml": {
+        "intro": {
+            "hash": "c786b235521347de905a3992131b8122",
+            "engine": "syrtis"
+        },
+        "ledger.be": {
+            "hash": "dc01e2cfc4b0a05e79d9eaef47eedb48",
+            "engine": "syrtis"
+        },
+        "ledger.fr": {
+            "hash": "947e91d4840cb099c0bae35d1e096e2f",
+            "engine": "syrtis"
+        },
+        "open": {
+            "hash": "19e91c7d4ec13f5490eac2e23c1cca65",
+            "engine": "syrtis"
+        },
+        "page_icon": {
+            "hash": "68f56a5a225064715b39227825bad428",
+            "engine": "syrtis"
+        },
+        "page_title": {
+            "hash": "a6942fc2e03b73630d5fbb18c4f66e8f",
+            "engine": "syrtis"
+        },
+        "try.bank": {
+            "hash": "5dece7717013c9bd202b794e56f11009",
+            "engine": "syrtis"
+        },
+        "try.close": {
+            "hash": "7abdc7b820cb17d293680e4373478dda",
+            "engine": "syrtis"
+        },
+        "try.documents": {
+            "hash": "03252047d7270be2e908263b585b45ad",
+            "engine": "syrtis"
+        },
+        "try.editor": {
+            "hash": "fc74322d06c9b3cf3cecf39da49839d3",
+            "engine": "syrtis"
+        },
+        "try.title": {
+            "hash": "b71c268d741ee49b752f928266f09e64",
+            "engine": "syrtis"
+        },
+        "try.vat": {
+            "hash": "e38604e5ea318a04bd633fa56f70b33f",
+            "engine": "syrtis"
+        }
+    },
+    "pages/accounting_demo/index.ur.yml": {
+        "intro": {
+            "hash": "c786b235521347de905a3992131b8122",
+            "engine": "syrtis"
+        },
+        "ledger.be": {
+            "hash": "dc01e2cfc4b0a05e79d9eaef47eedb48",
+            "engine": "syrtis"
+        },
+        "ledger.fr": {
+            "hash": "947e91d4840cb099c0bae35d1e096e2f",
+            "engine": "syrtis"
+        },
+        "open": {
+            "hash": "19e91c7d4ec13f5490eac2e23c1cca65",
+            "engine": "syrtis"
+        },
+        "page_icon": {
+            "hash": "68f56a5a225064715b39227825bad428",
+            "engine": "syrtis"
+        },
+        "page_title": {
+            "hash": "a6942fc2e03b73630d5fbb18c4f66e8f",
+            "engine": "syrtis"
+        },
+        "try.bank": {
+            "hash": "5dece7717013c9bd202b794e56f11009",
+            "engine": "syrtis"
+        },
+        "try.close": {
+            "hash": "7abdc7b820cb17d293680e4373478dda",
+            "engine": "syrtis"
+        },
+        "try.documents": {
+            "hash": "03252047d7270be2e908263b585b45ad",
+            "engine": "syrtis"
+        },
+        "try.editor": {
+            "hash": "fc74322d06c9b3cf3cecf39da49839d3",
+            "engine": "syrtis"
+        },
+        "try.title": {
+            "hash": "b71c268d741ee49b752f928266f09e64",
+            "engine": "syrtis"
+        },
+        "try.vat": {
+            "hash": "e38604e5ea318a04bd633fa56f70b33f",
+            "engine": "syrtis"
+        }
+    },
+    "pages/accounting_demo/index.vi.yml": {
         "intro": {
             "hash": "c786b235521347de905a3992131b8122",
             "engine": "syrtis"

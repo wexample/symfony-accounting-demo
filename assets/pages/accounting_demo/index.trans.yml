@@ -45,3 +45,323 @@ zh:
     bank: '银行 — 匹配行，接受提议，手动记录付款，导入对账单。'
     vat: '增值税 — 打开一个期间，查看其框，记账其结算。'
     close: '财政年度 — 检查年份，然后关闭并重新打开。'
+
+ar:
+  page_title: السيناريوهات
+  page_icon: 'ph:bold/list-checks'
+  intro: 'دفترين خياليين، كُتبا في زيارتك الأولى. غيّر أي شيء: الشاشات هي تلك التي تظهر في التطبيق.'
+  open: 'فتح السجلات'
+  ledger:
+    fr: 'ورشة عمل فرنسية — المخطط المحاسبي الفرنسي، إقرارات ضريبة القيمة المضافة CA3، تصدير FEC. فاتورة مدفوعة، واحدة متأخرة، عرض سعر ومسوّدة، شراء، كشف حساب بنكي للمطابقة.'
+    be: 'ورشة عمل بلجيكية — المخطط المحاسبي البلجيكي وشبكة ضريبة القيمة المضافة. فاتورة، شراء، عرض سعر، ودفع يحمل مرجعه المنظم.'
+  try:
+    title: 'ماذا تجرب'
+    documents: 'المستندات — قم بتصفية المستندات، افتح واحدة صادرة لقراءة PDF الخاصة بها، أصدر فاتورة ائتمان، انسخ واحدة.'
+    editor: 'المسوّدة — أضف سطورًا وشاهد الإجماليات، ألصق صفوفًا من جدول بيانات، ثم أصدرها.'
+    bank: 'البنك — طابق السطور، وافق على اقتراح، سجل دفعة يدويًا، استورد كشف حساب.'
+    vat: 'ضريبة القيمة المضافة — افتح فترة، اقرأ صناديقها، احجز تسويتها.'
+    close: 'السنوات المالية — تحقق من السنة، ثم أغلقها وأعد فتحها.'
+
+hi:
+  page_title: परिदृश्य
+  page_icon: 'ph:bold/list-checks'
+  intro: 'आपकी पहली यात्रा पर लिखी गई दो काल्पनिक लेजर। कुछ भी बदलें: स्क्रीन वही हैं जो एक एप्लिकेशन प्राप्त करता है।'
+  open: 'किताबें खोलें'
+  ledger:
+    fr: 'एक फ्रांसीसी कार्यशाला — फ्रांसीसी खाता चार्ट, CA3 VAT रिटर्न, FEC निर्यात। एक चालान का भुगतान किया गया, एक देर से, एक उद्धरण और एक मसौदा, एक खरीद, एक बैंक स्टेटमेंट मिलाने के लिए।'
+    be: 'एक बेल्जियन कार्यशाला — बेल्जियन खाता चार्ट और VAT ग्रिड। एक चालान, एक खरीद, एक उद्धरण, और एक भुगतान जिसमें इसका संरचित संदर्भ है।'
+  try:
+    title: 'क्या आजमाएं'
+    documents: 'दस्तावेज़ — उन्हें फ़िल्टर करें, पढ़ने के लिए एक जारी किया गया खोलें, एक क्रेडिट नोट जारी करें, एक की कॉपी करें।'
+    editor: 'मसौदा — पंक्तियाँ जोड़ें और कुल देखें, एक स्प्रेडशीट से पंक्तियाँ पेस्ट करें, फिर इसे जारी करें।'
+    bank: 'बैंक — पंक्तियों का मिलान करें, एक प्रस्ताव स्वीकार करें, हाथ से भुगतान रिकॉर्ड करें, एक स्टेटमेंट आयात करें।'
+    vat: 'VAT — एक अवधि खोलें, इसके बॉक्स पढ़ें, इसके निपटान की बुकिंग करें।'
+    close: 'वित्तीय वर्ष — वर्ष की जांच करें, फिर इसे बंद करें और फिर से खोलें।'
+
+he:
+  page_title: תסריטים
+  page_icon: 'ph:bold/list-checks'
+  intro: 'שני יומני דמה, שנכתבו בביקור הראשון שלך. שנה הכל: המסכים הם אלה שהיישום מקבל.'
+  open: 'פתח את הספרים'
+  ledger:
+    fr: 'סדנה צרפתית — תוכנית חשבונות צרפתית, החזרי מע"מ CA3, ייצוא FEC. חשבונית אחת ששולמה, אחת מאוחרת, הצעת מחיר וטיוטה, רכישה, דוח בנק להתאמה.'
+    be: 'סדנה בלגית — תוכנית חשבונות בלגית ורשת מע"מ. חשבונית, רכישה, הצעת מחיר, ותשלום עם הפניה מובנית.'
+  try:
+    title: 'מה לנסות'
+    documents: 'מסמכים — סנן אותם, פתח אחד שהונפק כדי לקרוא את ה-PDF שלו, הוצא חשבונית זיכוי, העתק אחד.'
+    editor: 'הטיוטה — הוסף שורות וצפה בסכומים, הדבק שורות מגיליון אלקטרוני, ואז הוצא אותה.'
+    bank: 'בנק — התאמת השורות, קבלת הצעה, רישום תשלום ידני, ייבוא דוח.'
+    vat: 'מע"מ — פתח תקופה, קרא את התיבות שלה, רושם את ההתחשבנות שלה.'
+    close: 'שנים פיסקליות — בדוק את השנה, ואז סגור ופתח אותה מחדש.'
+
+fa:
+  page_title: سناریوها
+  page_icon: 'ph:bold/list-checks'
+  intro: 'دو دفتر کل خیالی، نوشته شده در اولین بازدید شما. هر چیزی را تغییر دهید: صفحه‌ها همان‌هایی هستند که یک برنامه دریافت می‌کند.'
+  open: 'کتاب‌ها را باز کن'
+  ledger:
+    fr: 'یک کارگاه فرانسوی — چارت حساب‌های فرانسوی، اظهارنامه VAT CA3، صادرات FEC. یک فاکتور پرداخت شده، یک فاکتور دیرکرد، یک پیش‌فاکتور و یک پیش‌نویس، یک خرید، یک صورت‌حساب بانکی برای تطابق.'
+    be: 'یک کارگاه بلژیکی — چارت حساب‌های بلژیکی و جدول VAT. یک فاکتور، یک خرید، یک پیش‌فاکتور، و یک پرداخت با مرجع ساختاری آن.'
+  try:
+    title: 'چه چیزی را امتحان کنید'
+    documents: 'مدارک — آن‌ها را فیلتر کنید، یک مورد صادر شده را باز کنید تا PDF آن را بخوانید، یک یادداشت اعتباری صادر کنید، یک مورد را کپی کنید.'
+    editor: 'پیش‌نویس — خطوط را اضافه کنید و جمع‌ها را مشاهده کنید، سطرهایی از یک صفحه‌گسترده را پیست کنید، سپس آن را صادر کنید.'
+    bank: 'بانک — خطوط را تطبیق دهید، یک پیشنهاد را قبول کنید، یک پرداخت را به صورت دستی ثبت کنید، یک صورت‌حساب را وارد کنید.'
+    vat: 'مالیات بر ارزش افزوده — یک دوره را باز کنید، جعبه‌های آن را بخوانید، تسویه آن را ثبت کنید.'
+    close: 'سال‌های مالی — سال را بررسی کنید، سپس آن را ببندید و دوباره باز کنید.'
+
+ur:
+  page_title: مناظر
+  page_icon: 'ph:bold/list-checks'
+  intro: 'دو فرضی لیجر، آپ کی پہلی وزٹ پر لکھے گئے۔ کچھ بھی تبدیل کریں: یہ وہ اسکرینیں ہیں جو ایک ایپلیکیشن حاصل کرتی ہے۔'
+  open: 'کتابیں کھولیں'
+  ledger:
+    fr: 'ایک فرانسیسی ورکشاپ — فرانسیسی اکاؤنٹس کا چارٹ، CA3 VAT کی واپسی، FEC کی برآمد۔ ایک ادا شدہ رسید، ایک دیر سے، ایک حوالہ اور ایک مسودہ، ایک خریداری، ایک بینک بیان جو ملانا ہے۔'
+    be: 'ایک بیلجیئم ورکشاپ — بیلجیئم اکاؤنٹس کا چارٹ اور VAT گرید۔ ایک رسید، ایک خریداری، ایک حوالہ، اور ایک ادائیگی جس کا ساختی حوالہ ہے۔'
+  try:
+    title: 'کیا آزمانا ہے'
+    documents: 'دستاویزات — انہیں فلٹر کریں، ایک جاری شدہ کو پڑھنے کے لیے کھولیں، ایک کریڈٹ نوٹ جاری کریں، ایک کاپی کریں۔'
+    editor: 'مسودہ — لائنیں شامل کریں اور ٹوٹل دیکھیں، ایک اسپریڈشیٹ سے قطاریں پیسٹ کریں، پھر اسے جاری کریں۔'
+    bank: 'بینک — لائنیں ملائیں، ایک تجویز قبول کریں، ایک ادائیگی کو دستی طور پر ریکارڈ کریں، ایک بیان درآمد کریں۔'
+    vat: 'VAT — ایک مدت کھولیں، اس کے خانے پڑھیں، اس کا تصفیہ بک کریں۔'
+    close: 'مالی سال — سال چیک کریں، پھر اسے بند کریں اور دوبارہ کھولیں۔'
+
+ja:
+  page_title: シナリオ
+  page_icon: 'ph:bold/list-checks'
+  intro: 最初の訪問時に作成された2つの架空の台帳。何でも変更できます：画面はアプリケーションが取得するものです。
+  open: 帳簿を開く
+  ledger:
+    fr: 'フランスのワークショップ — フランスの勘定科目表、CA3 VAT申告、FECエクスポート。一つの請求書が支払われ、一つは遅延中、見積書と草案、購入、照合するための銀行口座明細。'
+    be: 'ベルギーのワークショップ — ベルギーの勘定科目表とVATグリッド。一つの請求書、一つの購入、一つの見積書、そして構造化された参照を持つ支払い。'
+  try:
+    title: 試すこと
+    documents: 'ドキュメント — フィルターをかけて、発行されたものを開いてPDFを読み、クレジットノートを発行し、一つをコピーします。'
+    editor: '草案 — 行を追加し、合計を確認し、スプレッドシートから行を貼り付けて、発行します。'
+    bank: '銀行 — 行を照合し、提案を受け入れ、手動で支払いを記録し、明細をインポートします。'
+    vat: 'VAT — 期間を開き、そのボックスを読み、清算を記帳します。'
+    close: '会計年度 — 年を確認し、閉じて再度開きます。'
+
+ko:
+  page_title: 시나리오
+  page_icon: 'ph:bold/list-checks'
+  intro: '첫 방문 시 작성된 두 개의 가상의 원장입니다. 모든 것을 변경하세요: 화면은 애플리케이션이 표시하는 것입니다.'
+  open: '장부 열기'
+  ledger:
+    fr: '프랑스 워크숍 — 프랑스 계정 차트, CA3 부가가치세 신고서, FEC 내보내기. 하나의 청구서가 지급되었고, 하나는 연체되었으며, 견적서와 초안, 구매, 일치하는 은행 명세서가 있습니다.'
+    be: '벨기에 워크숍 — 벨기에 계정 차트 및 부가가치세 그리드. 하나의 청구서, 하나의 구매, 하나의 견적서, 구조화된 참조를 포함한 지불이 있습니다.'
+  try:
+    title: '시도해 볼 항목'
+    documents: '문서 — 필터링하고, 발행된 문서를 열어 PDF를 읽고, 신용 노트를 발행하고, 하나를 복사하세요.'
+    editor: '초안 — 항목을 추가하고 총계를 확인하고, 스프레드시트에서 행을 붙여넣은 후 발행하세요.'
+    bank: '은행 — 항목을 일치시키고, 제안을 수락하고, 수동으로 지불을 기록하고, 명세서를 가져오세요.'
+    vat: '부가가치세 — 기간을 열고, 상자를 읽고, 정산을 예약하세요.'
+    close: '회계 연도 — 연도를 확인한 후 닫고 다시 여세요.'
+
+bn:
+  page_title: দৃশ্যপট
+  page_icon: 'ph:bold/list-checks'
+  intro: 'দুইটি কাল্পনিক বই, আপনার প্রথম সফরের সময় লেখা। কিছু পরিবর্তন করুন: স্ক্রীনগুলি সেইগুলিই যা একটি অ্যাপ্লিকেশন পায়।'
+  open: 'বই খুলুন'
+  ledger:
+    fr: 'একটি ফরাসি কর্মশালা — ফরাসি হিসাবের চার্ট, CA3 ভ্যাট রিটার্ন, FEC রপ্তানি। একটি চালান পরিশোধিত, একটি দেরিতে, একটি উদ্ধৃতি এবং একটি খসড়া, একটি ক্রয়, একটি ব্যাংক বিবৃতি মেলানোর জন্য।'
+    be: 'একটি বেলজিয়ান কর্মশালা — বেলজিয়ান হিসাবের চার্ট এবং ভ্যাট গ্রিড। একটি চালান, একটি ক্রয়, একটি উদ্ধৃতি, এবং একটি পেমেন্ট যা তার কাঠামোগত রেফারেন্স বহন করে।'
+  try:
+    title: 'কী চেষ্টা করবেন'
+    documents: 'ডকুমেন্ট — সেগুলি ফিল্টার করুন, একটি ইস্যুকৃত ডকুমেন্ট খুলুন তার PDF পড়ার জন্য, একটি ক্রেডিট নোট ইস্যু করুন, একটি কপি করুন।'
+    editor: 'খসড়া — লাইন যুক্ত করুন এবং মোট দেখুন, একটি স্প্রেডশিট থেকে সারি পেস্ট করুন, তারপর এটি ইস্যু করুন।'
+    bank: 'ব্যাংক — লাইনের সাথে মেলান, একটি প্রস্তাব গ্রহণ করুন, হাতে একটি পেমেন্ট রেকর্ড করুন, একটি বিবৃতি আমদানি করুন।'
+    vat: 'ভ্যাট — একটি সময়কাল খুলুন, এর বক্সগুলি পড়ুন, এর নিষ্পত্তি বুক করুন।'
+    close: 'আর্থিক বছর — বছরটি পরীক্ষা করুন, তারপর এটি বন্ধ করুন এবং পুনরায় খুলুন।'
+
+th:
+  page_title: สถานการณ์
+  page_icon: 'ph:bold/list-checks'
+  intro: 'บัญชีสมมุติสองเล่ม ที่เขียนในครั้งแรกที่คุณเข้าใช้งาน เปลี่ยนแปลงอะไรได้: หน้าจอคือสิ่งที่แอปพลิเคชันจะได้รับ'
+  open: เปิดบัญชี
+  ledger:
+    fr: 'เวิร์คช็อปฝรั่งเศส — แผนภูมิบัญชีฝรั่งเศส, การคืนภาษีมูลค่าเพิ่ม CA3, การส่งออก FEC มีใบแจ้งหนี้ที่ชำระแล้ว 1 ใบ, เลท 1 ใบ, ใบเสนอราคาและร่าง, การซื้อ, รายการธนาคารที่ตรงกัน'
+    be: 'เวิร์คช็อปเบลเยียม — แผนภูมิบัญชีเบลเยียมและตารางภาษีมูลค่าเพิ่ม มีใบแจ้งหนี้, การซื้อ, ใบเสนอราคา, และการชำระเงินที่มีหมายเลขอ้างอิงแบบมีโครงสร้าง'
+  try:
+    title: สิ่งที่ทดลอง
+    documents: 'เอกสาร — กรองเอกสาร, เปิดเอกสารที่ออกเพื่ออ่าน PDF, ออกใบลดหนี้, คัดลอกเอกสารหนึ่งเอกสาร'
+    editor: 'ร่าง — เพิ่มบรรทัดและดูยอดรวม, วางแถวจากสเปรดชีต, จากนั้นออกเอกสาร'
+    bank: 'ธนาคาร — ตรงบรรทัด, ยอมรับข้อเสนอ, บันทึกการชำระเงินด้วยมือ, นำเข้ารายการ'
+    vat: 'ภาษีมูลค่าเพิ่ม — เปิดช่วงเวลา, อ่านช่องต่างๆ, บันทึกการชำระ'
+    close: 'ปีงบประมาณ — ตรวจสอบปี จากนั้นปิดและเปิดใหม่'
+
+de:
+  page_title: Szenarien
+  page_icon: 'ph:bold/list-checks'
+  intro: 'Zwei erfundene Bücher, erstellt bei Ihrem ersten Besuch. Ändern Sie alles: die Bildschirme sind die, die eine Anwendung erhält.'
+  open: 'Bücher öffnen'
+  ledger:
+    fr: 'Eine französische Werkstatt — französisches Kontenrahmen, CA3-Umsatzsteuererklärungen, FEC-Export. Eine Rechnung bezahlt, eine verspätet, ein Angebot und ein Entwurf, ein Einkauf, ein Kontoauszug zur Abstimmung.'
+    be: 'Eine belgische Werkstatt — belgisches Kontenrahmen und Umsatzsteuerübersicht. Eine Rechnung, ein Einkauf, ein Angebot und eine Zahlung mit ihrer strukturierten Referenz.'
+  try:
+    title: 'Was zu versuchen'
+    documents: 'Dokumente — filtern Sie sie, öffnen Sie eines, um das PDF zu lesen, stellen Sie eine Gutschrift aus, kopieren Sie eines.'
+    editor: 'Der Entwurf — Zeilen hinzufügen und die Summen beobachten, Zeilen aus einer Tabelle einfügen und dann ausstellen.'
+    bank: 'Bank — die Zeilen abgleichen, einen Vorschlag annehmen, eine Zahlung manuell erfassen, einen Auszug importieren.'
+    vat: 'Umsatzsteuer — einen Zeitraum öffnen, die Kästchen lesen, die Abrechnung buchen.'
+    close: 'Geschäftsjahre — das Jahr überprüfen, dann schließen und wieder öffnen.'
+
+fi:
+  page_title: Skenaariot
+  page_icon: 'ph:bold/list-checks'
+  intro: 'Kaksi kuvitteellista kirjanpitoa, kirjoitettu ensimmäisellä käynnilläsi. Muuta mitä tahansa: näytöt ovat sellaisia, joita sovellus saa.'
+  open: 'Avaa kirjat'
+  ledger:
+    fr: 'Ranskalainen työpaja — Ranskan tililuettelo, CA3 ALV-ilmoitukset, FEC-vienti. Yksi maksettu lasku, yksi myöhässä, tarjous ja luonnos, osto, pankkitiliote johon sovittaa.'
+    be: 'Belgialainen työpaja — Belgian tililuettelo ja ALV-taulukko. Yksi lasku, yksi osto, yksi tarjous ja maksaminen, joka sisältää rakenteellisen viitteen.'
+  try:
+    title: 'Mitä kokeilla'
+    documents: 'Asiakirjat — suodata ne, avaa myönnetty asiakirja lukeaksesi sen PDF:n, myönnä hyvityslasku, kopioi yksi.'
+    editor: 'Luonnos — lisää rivejä ja katso kokonaisuudet, liitä rivejä taulukosta, ja myönnä se sitten.'
+    bank: 'Pankki — sovita rivit, hyväksy ehdotus, kirjaa maksu käsin, tuo tiliote.'
+    vat: 'ALV — avaa kausi, lue sen ruudut, kirjaa sen erä.'
+    close: 'Verovuodet — tarkista vuosi, sulje se ja avaa sitten uudelleen.'
+
+ru:
+  page_title: Сценарии
+  page_icon: 'ph:bold/list-checks'
+  intro: 'Два вымышленных реестра, составленных при вашем первом посещении. Измените что угодно: экраны — это то, что получает приложение.'
+  open: 'Открыть книги'
+  ledger:
+    fr: 'Французская мастерская — французский план счетов, декларации по НДС CA3, экспорт FEC. Один оплаченный счет, один просроченный, коммерческое предложение и черновик, покупка, банковская выписка для согласования.'
+    be: 'Бельгийская мастерская — бельгийский план счетов и таблица НДС. Один счет, одна покупка, одно коммерческое предложение и платеж с его структурированной ссылкой.'
+  try:
+    title: 'Что попробовать'
+    documents: 'Документы — фильтруйте их, откройте выданный, чтобы прочитать его PDF, выпишите кредит-ноту, скопируйте один.'
+    editor: 'Черновик — добавьте строки и смотрите итоги, вставьте строки из таблицы, затем выпишите его.'
+    bank: 'Банк — согласуйте строки, примите предложение, запишите платеж вручную, импортируйте выписку.'
+    vat: 'НДС — откройте период, посмотрите его поля, зафиксируйте его расчет.'
+    close: 'Фискальные годы — проверьте год, затем закройте и заново откройте его.'
+
+pl:
+  page_title: Scenariusze
+  page_icon: 'ph:bold/list-checks'
+  intro: 'Dwa fikcyjne dzienniki, napisane podczas twojej pierwszej wizyty. Zmień cokolwiek: ekrany to te, które otrzymuje aplikacja.'
+  open: 'Otwórz księgi'
+  ledger:
+    fr: 'Francuska warsztat — francuski plan kont, deklaracje VAT CA3, eksport FEC. Jedna opłacona faktura, jedna spóźniona, oferta i projekt, zakup, wyciąg bankowy do uzgodnienia.'
+    be: 'Belgijski warsztat — belgijski plan kont i tabela VAT. Faktura, zakup, oferta i płatność z jej zorganizowanym odniesieniem.'
+  try:
+    title: 'Co spróbować'
+    documents: 'Dokumenty — filtruj je, otwórz wystawiony, aby przeczytać jego PDF, wystaw notę kredytową, skopiuj jeden.'
+    editor: 'Projekt — dodaj wiersze i obserwuj sumy, wklej wiersze z arkusza kalkulacyjnego, a następnie go wystaw.'
+    bank: 'Bank — uzgodnij wiersze, zaakceptuj propozycję, ręcznie zarejestruj płatność, zaimportuj wyciąg.'
+    vat: 'VAT — otwórz okres, przeczytaj jego pola, zaksięguj jego rozliczenie.'
+    close: 'Lata podatkowe — sprawdź rok, a następnie zamknij i otwórz go ponownie.'
+
+es:
+  page_title: Escenarios
+  page_icon: 'ph:bold/list-checks'
+  intro: 'Dos libros contables ficticios, escritos en tu primera visita. Cambia cualquier cosa: las pantallas son las que se obtienen en una aplicación.'
+  open: 'Abrir los libros'
+  ledger:
+    fr: 'Un taller francés — plan contable francés, declaraciones de IVA CA3, exportación FEC. Una factura pagada, una tarde, una cotización y un borrador, una compra, un extracto bancario para conciliar.'
+    be: 'Un taller belga — plan contable belga y cuadrícula de IVA. Una factura, una compra, una cotización y un pago con su referencia estructurada.'
+  try:
+    title: 'Qué probar'
+    documents: 'Documentos — filtrarlos, abrir uno emitido para leer su PDF, emitir una nota de crédito, copiar uno.'
+    editor: 'El borrador — agregar líneas y ver los totales, pegar filas de una hoja de cálculo, luego emitirlo.'
+    bank: 'Banco — conciliar las líneas, aceptar una propuesta, registrar un pago manualmente, importar un extracto.'
+    vat: 'IVA — abrir un período, leer sus casillas, contabilizar su liquidación.'
+    close: 'Años fiscales — verificar el año, luego cerrarlo y volver a abrirlo.'
+
+it:
+  page_title: Scenari
+  page_icon: 'ph:bold/list-checks'
+  intro: "Due registri inventati, scritti alla tua prima visita. Cambia qualsiasi cosa: gli schermi sono quelli che un'applicazione riceve."
+  open: 'Apri i registri'
+  ledger:
+    fr: 'Un laboratorio francese — piano dei conti francese, dichiarazioni IVA CA3, esportazione FEC. Una fattura pagata, una in ritardo, un preventivo e una bozza, un acquisto, un estratto conto da abbinare.'
+    be: 'Un laboratorio belga — piano dei conti belga e griglia IVA. Una fattura, un acquisto, un preventivo e un pagamento con il suo riferimento strutturato.'
+  try:
+    title: 'Cosa provare'
+    documents: 'Documenti — filtrali, apri uno emesso per leggere il suo PDF, emetti una nota di credito, copiane uno.'
+    editor: 'La bozza — aggiungi righe e guarda i totali, incolla righe da un foglio di calcolo, poi emettela.'
+    bank: 'Banca — abbina le righe, accetta una proposta, registra un pagamento a mano, importa un estratto conto.'
+    vat: 'IVA — apri un periodo, leggi le sue caselle, contabilizza il suo pagamento.'
+    close: "Anni fiscali — controlla l'anno, poi chiudilo e riaprilo."
+
+pt_BR:
+  page_title: Cenários
+  page_icon: 'ph:bold/list-checks'
+  intro: 'Dois livros contábeis fictícios, escritos na sua primeira visita. Altere qualquer coisa: as telas são as que um aplicativo recebe.'
+  open: 'Abrir os livros'
+  ledger:
+    fr: 'Uma oficina francesa — plano de contas francês, declarações de IVA CA3, exportação FEC. Uma fatura paga, uma atrasada, uma cotação e um rascunho, uma compra, um extrato bancário para conciliar.'
+    be: 'Uma oficina belga — plano de contas belga e grade de IVA. Uma fatura, uma compra, uma cotação e um pagamento com sua referência estruturada.'
+  try:
+    title: 'O que experimentar'
+    documents: 'Documentos — filtre-os, abra um emitido para ler seu PDF, emita uma nota de crédito, copie um.'
+    editor: 'O rascunho — adicione linhas e veja os totais, cole linhas de uma planilha, depois emita-o.'
+    bank: 'Banco — concilie as linhas, aceite uma proposta, registre um pagamento manualmente, importe um extrato.'
+    vat: 'IVA — abra um período, leia suas caixas, registre seu acerto.'
+    close: 'Anos fiscais — verifique o ano, depois feche e reabra.'
+
+tr:
+  page_title: Senaryolar
+  page_icon: 'ph:bold/list-checks'
+  intro: 'İlk ziyaretinizde yazılmış iki hayali defter. Her şeyi değiştirebilirsiniz: ekranlar bir uygulamanın alacağı ekranlardır.'
+  open: 'Defterleri Aç'
+  ledger:
+    fr: 'Fransız atölyesi — Fransız hesap planı, CA3 KDV beyannameleri, FEC ihracı. Bir ödenmiş fatura, bir gecikmeli, bir teklif ve bir taslak, bir satın alma, eşleşmesi gereken bir banka ekstresi.'
+    be: 'Belçikalı atölye — Belçika hesap planı ve KDV tablosu. Bir fatura, bir satın alma, bir teklif ve yapılandırılmış referansına sahip bir ödeme.'
+  try:
+    title: 'Ne denemeli'
+    documents: "Belgeler — filtrele, birini açıp PDF'sini oku, kredi notu düzenle, birini kopyala."
+    editor: 'Taslak — satır ekle ve toplamları izle, bir elektronik tablodan satırları yapıştır, ardından düzenle.'
+    bank: 'Banka — satırları eşle, bir teklifi kabul et, bir ödemeyi elle kaydet, bir ekstresi içe aktar.'
+    vat: 'KDV — bir dönemi aç, kutularını oku, taksidi kaydet.'
+    close: 'Mali yıllar — yılı kontrol et, ardından kapat ve yeniden aç.'
+
+vi:
+  page_title: 'Kịch bản'
+  page_icon: 'ph:bold/list-checks'
+  intro: 'Hai sổ cái giả tưởng, được viết trong lần truy cập đầu tiên của bạn. Thay đổi bất cứ điều gì: các màn hình là những gì một ứng dụng nhận được.'
+  open: 'Mở sổ sách'
+  ledger:
+    fr: 'Một xưởng tại Pháp — bảng tài khoản của Pháp, khai báo VAT CA3, xuất FEC. Một hóa đơn đã thanh toán, một hóa đơn trễ hạn, một báo giá và một bản nháp, một giao dịch mua, một bảng sao kê ngân hàng để đối chiếu.'
+    be: 'Một xưởng tại Bỉ — bảng tài khoản của Bỉ và bảng VAT. Một hóa đơn, một giao dịch mua, một báo giá, và một khoản thanh toán mang theo tham chiếu có cấu trúc của nó.'
+  try:
+    title: 'Cái gì để thử'
+    documents: 'Tài liệu — lọc chúng, mở một tài liệu đã phát hành để đọc PDF của nó, phát hành một hóa đơn tín dụng, sao chép một tài liệu.'
+    editor: 'Bản nháp — thêm dòng và xem tổng, dán hàng từ bảng tính, sau đó phát hành nó.'
+    bank: 'Ngân hàng — đối chiếu các dòng, chấp nhận một đề xuất, ghi nhận một khoản thanh toán bằng tay, nhập một bảng sao kê.'
+    vat: 'VAT — mở một kỳ, đọc các ô của nó, ghi nhận việc thanh toán của nó.'
+    close: 'Năm tài chính — kiểm tra năm, sau đó đóng và mở lại nó.'
+
+id:
+  page_title: Skenario
+  page_icon: 'ph:bold/list-checks'
+  intro: 'Dua buku kas fiktif, ditulis pada kunjungan pertama Anda. Ubah apa saja: layar adalah yang didapat aplikasi.'
+  open: 'Buka buku'
+  ledger:
+    fr: 'Sebuah bengkel Prancis — daftar akun Prancis, pengembalian PPN CA3, ekspor FEC. Satu faktur dibayar, satu terlambat, sebuah penawaran dan draf, sebuah pembelian, sebuah laporan bank untuk dicocokkan.'
+    be: 'Sebuah bengkel Belgia — daftar akun Belgia dan grid PPN. Sebuah faktur, sebuah pembelian, sebuah penawaran, dan sebuah pembayaran dengan referensi terstruktur.'
+  try:
+    title: 'Apa yang dicoba'
+    documents: 'Dokumen — saring mereka, buka yang diterbitkan untuk membaca PDF-nya, terbitkan nota kredit, salin satu.'
+    editor: 'Draf — tambahkan baris dan lihat totalnya, tempel baris dari spreadsheet, lalu terbitkan.'
+    bank: 'Bank — cocokkan baris, terima proposal, catat pembayaran secara manual, impor laporan.'
+    vat: 'PPN — buka periode, baca kolomnya, catat penyelesaiannya.'
+    close: 'Tahun fiskal — periksa tahun, lalu tutup dan buka kembali.'
+
+nl:
+  page_title: "Scenario's"
+  page_icon: 'ph:bold/list-checks'
+  intro: 'Twee verzonnen grootboeken, geschreven bij je eerste bezoek. Wijzig iets: de schermen zijn die van een applicatie.'
+  open: 'Open de boeken'
+  ledger:
+    fr: 'Een Franse workshop — Franse rekeningenstelsel, CA3 btw-aangiften, FEC-export. Eén factuur betaald, één te laat, een offerte en een concept, een aankoop, een bankafschrift om mee te vergelijken.'
+    be: 'Een Belgische workshop — Belgisch rekeningenstelsel en btw-schema. Een factuur, een aankoop, een offerte en een betaling met zijn gestructureerde referentie.'
+  try:
+    title: 'Wat te proberen'
+    documents: 'Documenten — filter ze, open een uitgegeven document om de PDF te lezen, geef een creditnota uit, kopieer er één.'
+    editor: 'Het concept — voeg regels toe en bekijk de totalen, plak rijen uit een spreadsheet, en geef het dan uit.'
+    bank: 'Bank — match de regels, accepteer een voorstel, registreer een betaling met de hand, importeer een afschrift.'
+    vat: 'Btw — open een periode, lees de vakken, boek de afrekening.'
+    close: 'Fiscale jaren — controleer het jaar, sluit het dan af en open het opnieuw.'
