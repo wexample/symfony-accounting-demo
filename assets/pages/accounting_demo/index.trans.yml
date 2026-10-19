@@ -13,3 +13,35 @@ en:
     bank: Bank — match the lines, accept a proposal, record a payment by hand, import a statement.
     vat: VAT — open a period, read its boxes, book its settlement.
     close: Fiscal years — check the year, then close and reopen it.
+
+fr:
+  page_title: Scénarios
+  page_icon: 'ph:bold/list-checks'
+  intro: 'Deux livres comptables fictifs, créés lors de votre première visite. Modifiez tout : les écrans sont ceux que vous trouverez dans une application.'
+  open: 'Ouvrir les livres'
+  ledger:
+    fr: 'Un atelier français — plan comptable français, déclarations de TVA CA3, export FEC. Une facture payée, une en retard, un devis et un brouillon, un achat, un relevé bancaire à rapprocher.'
+    be: 'Un atelier belge — plan comptable belge et grille de TVA. Une facture, un achat, un devis, et un paiement avec sa référence structurée.'
+  try:
+    title: 'Que tester'
+    documents: 'Documents — filtrez-les, ouvrez un document émis pour lire son PDF, émettez une note de crédit, en copiez un.'
+    editor: 'Le brouillon — ajoutez des lignes et regardez les totaux, collez des lignes depuis un tableur, puis émettez-le.'
+    bank: 'Banque — rapprochez les lignes, acceptez une proposition, enregistrez un paiement manuellement, importez un relevé.'
+    vat: 'TVA — ouvrez une période, lisez ses cases, comptabilisez son règlement.'
+    close: "Exercices fiscaux — vérifiez l'année, puis fermez-la et rouvrez-la."
+
+zh:
+  page_title: 场景
+  page_icon: 'ph:bold/list-checks'
+  intro: 两个虚构的账簿，在您第一次访问时创建。可以随意更改：这些屏幕就是应用程序所使用的。
+  open: 打开账簿
+  ledger:
+    fr: '一个法国工作坊 — 法国会计科目表，CA3增值税申报，FEC导出。一个已支付的发票，一个逾期的发票，一个报价和一个草稿，一个采购，一个银行对账单。'
+    be: '一个比利时工作坊 — 比利时会计科目表和增值税表格。一个发票，一个采购，一个报价，以及带有结构化参考的付款。'
+  try:
+    title: 尝试内容
+    documents: '文档 — 过滤它们，打开一个已发出的文档以查看其PDF，开具贷项通知单，复制一个。'
+    editor: '草稿 — 添加行并观察总计，从电子表格粘贴行，然后发出它。'
+    bank: '银行 — 匹配行，接受提议，手动记录付款，导入对账单。'
+    vat: '增值税 — 打开一个期间，查看其框，记账其结算。'
+    close: '财政年度 — 检查年份，然后关闭并重新打开。'
