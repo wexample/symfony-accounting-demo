@@ -1,6 +1,6 @@
 {
   "name": "wexample/symfony-accounting-demo",
-  "version": "2.0.2",
+  "version": "3.0.0",
   "type": "library",
   "license": "MIT",
   "description": "A demo of symfony-accounting-ds: a French and a Belgian ledger, their documents, a bank statement and a fiscal year",
@@ -22,14 +22,14 @@
   ],
   "require": {
     "php": ">=8.5",
-    "wexample/symfony-helpers": ">=16.0.0",
-    "wexample/symfony-loader": ">=23.0.0",
-    "wexample/symfony-design-system": ">=35.0.0",
-    "wexample/symfony-accounting": ">=7.0.0",
-    "wexample/symfony-accounting-fr": ">=4.0.0",
-    "wexample/symfony-accounting-be": ">=4.0.0",
-    "wexample/symfony-accounting-ds": ">=2.0.0",
-    "wexample/symfony-organization": ">=2.0.0"
+    "wexample/symfony-helpers": ">=17.0.0",
+    "wexample/symfony-loader": ">=23.1.0",
+    "wexample/symfony-design-system": ">=37.0.0",
+    "wexample/symfony-accounting": ">=8.0.0",
+    "wexample/symfony-accounting-fr": ">=5.0.0",
+    "wexample/symfony-accounting-be": ">=6.0.0",
+    "wexample/symfony-accounting-ds": ">=2.1.0",
+    "wexample/symfony-organization": ">=3.0.0"
   },
   "require-dev": {
     "phpunit/phpunit": "^13"
