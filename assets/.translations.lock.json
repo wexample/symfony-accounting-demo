@@ -1,5 +1,9 @@
 {
     "pages/accounting_demo/index.ar.yml": {
+        "document_title": {
+            "hash": "568ebc1a2096a3a3314f09550b70fc99",
+            "engine": "syrtis"
+        },
         "intro": {
             "hash": "c786b235521347de905a3992131b8122",
             "engine": "syrtis"
@@ -21,7 +25,7 @@
             "engine": "syrtis"
         },
         "page_title": {
-            "hash": "a6942fc2e03b73630d5fbb18c4f66e8f",
+            "hash": "30e5363b22c7a20e17de2d90b42fe518",
             "engine": "syrtis"
         },
         "try.bank": {
@@ -50,6 +54,10 @@
         }
     },
     "pages/accounting_demo/index.bn.yml": {
+        "document_title": {
+            "hash": "568ebc1a2096a3a3314f09550b70fc99",
+            "engine": "syrtis"
+        },
         "intro": {
             "hash": "c786b235521347de905a3992131b8122",
             "engine": "syrtis"
@@ -71,7 +79,7 @@
             "engine": "syrtis"
         },
         "page_title": {
-            "hash": "a6942fc2e03b73630d5fbb18c4f66e8f",
+            "hash": "30e5363b22c7a20e17de2d90b42fe518",
             "engine": "syrtis"
         },
         "try.bank": {
@@ -100,6 +108,10 @@
         }
     },
     "pages/accounting_demo/index.de.yml": {
+        "document_title": {
+            "hash": "568ebc1a2096a3a3314f09550b70fc99",
+            "engine": "syrtis"
+        },
         "intro": {
             "hash": "c786b235521347de905a3992131b8122",
             "engine": "syrtis"
@@ -121,7 +133,7 @@
             "engine": "syrtis"
         },
         "page_title": {
-            "hash": "a6942fc2e03b73630d5fbb18c4f66e8f",
+            "hash": "30e5363b22c7a20e17de2d90b42fe518",
             "engine": "syrtis"
         },
         "try.bank": {
@@ -150,6 +162,10 @@
         }
     },
     "pages/accounting_demo/index.es.yml": {
+        "document_title": {
+            "hash": "568ebc1a2096a3a3314f09550b70fc99",
+            "engine": "syrtis"
+        },
         "intro": {
             "hash": "c786b235521347de905a3992131b8122",
             "engine": "syrtis"
@@ -171,7 +187,7 @@
             "engine": "syrtis"
         },
         "page_title": {
-            "hash": "a6942fc2e03b73630d5fbb18c4f66e8f",
+            "hash": "30e5363b22c7a20e17de2d90b42fe518",
             "engine": "syrtis"
         },
         "try.bank": {
@@ -200,6 +216,10 @@
         }
     },
     "pages/accounting_demo/index.fa.yml": {
+        "document_title": {
+            "hash": "568ebc1a2096a3a3314f09550b70fc99",
+            "engine": "syrtis"
+        },
         "intro": {
             "hash": "c786b235521347de905a3992131b8122",
             "engine": "syrtis"
@@ -221,7 +241,7 @@
             "engine": "syrtis"
         },
         "page_title": {
-            "hash": "a6942fc2e03b73630d5fbb18c4f66e8f",
+            "hash": "30e5363b22c7a20e17de2d90b42fe518",
             "engine": "syrtis"
         },
         "try.bank": {
@@ -250,6 +270,10 @@
         }
     },
     "pages/accounting_demo/index.fi.yml": {
+        "document_title": {
+            "hash": "568ebc1a2096a3a3314f09550b70fc99",
+            "engine": "syrtis"
+        },
         "intro": {
             "hash": "c786b235521347de905a3992131b8122",
             "engine": "syrtis"
@@ -271,7 +295,7 @@
             "engine": "syrtis"
         },
         "page_title": {
-            "hash": "a6942fc2e03b73630d5fbb18c4f66e8f",
+            "hash": "30e5363b22c7a20e17de2d90b42fe518",
             "engine": "syrtis"
         },
         "try.bank": {
@@ -300,6 +324,10 @@
         }
     },
     "pages/accounting_demo/index.fr.yml": {
+        "document_title": {
+            "hash": "568ebc1a2096a3a3314f09550b70fc99",
+            "engine": "syrtis"
+        },
         "intro": {
             "hash": "c786b235521347de905a3992131b8122",
             "engine": "syrtis"
@@ -321,7 +349,7 @@
             "engine": "syrtis"
         },
         "page_title": {
-            "hash": "a6942fc2e03b73630d5fbb18c4f66e8f",
+            "hash": "30e5363b22c7a20e17de2d90b42fe518",
             "engine": "syrtis"
         },
         "try.bank": {
@@ -350,6 +378,10 @@
         }
     },
     "pages/accounting_demo/index.he.yml": {
+        "document_title": {
+            "hash": "568ebc1a2096a3a3314f09550b70fc99",
+            "engine": "syrtis"
+        },
         "intro": {
             "hash": "c786b235521347de905a3992131b8122",
             "engine": "syrtis"
@@ -371,7 +403,7 @@
             "engine": "syrtis"
         },
         "page_title": {
-            "hash": "a6942fc2e03b73630d5fbb18c4f66e8f",
+            "hash": "30e5363b22c7a20e17de2d90b42fe518",
             "engine": "syrtis"
         },
         "try.bank": {
@@ -400,6 +432,10 @@
         }
     },
     "pages/accounting_demo/index.hi.yml": {
+        "document_title": {
+            "hash": "568ebc1a2096a3a3314f09550b70fc99",
+            "engine": "syrtis"
+        },
         "intro": {
             "hash": "c786b235521347de905a3992131b8122",
             "engine": "syrtis"
@@ -421,7 +457,7 @@
             "engine": "syrtis"
         },
         "page_title": {
-            "hash": "a6942fc2e03b73630d5fbb18c4f66e8f",
+            "hash": "30e5363b22c7a20e17de2d90b42fe518",
             "engine": "syrtis"
         },
         "try.bank": {
@@ -450,6 +486,10 @@
         }
     },
     "pages/accounting_demo/index.id.yml": {
+        "document_title": {
+            "hash": "568ebc1a2096a3a3314f09550b70fc99",
+            "engine": "syrtis"
+        },
         "intro": {
             "hash": "c786b235521347de905a3992131b8122",
             "engine": "syrtis"
@@ -471,7 +511,7 @@
             "engine": "syrtis"
         },
         "page_title": {
-            "hash": "a6942fc2e03b73630d5fbb18c4f66e8f",
+            "hash": "30e5363b22c7a20e17de2d90b42fe518",
             "engine": "syrtis"
         },
         "try.bank": {
@@ -500,6 +540,10 @@
         }
     },
     "pages/accounting_demo/index.it.yml": {
+        "document_title": {
+            "hash": "568ebc1a2096a3a3314f09550b70fc99",
+            "engine": "syrtis"
+        },
         "intro": {
             "hash": "c786b235521347de905a3992131b8122",
             "engine": "syrtis"
@@ -521,7 +565,7 @@
             "engine": "syrtis"
         },
         "page_title": {
-            "hash": "a6942fc2e03b73630d5fbb18c4f66e8f",
+            "hash": "30e5363b22c7a20e17de2d90b42fe518",
             "engine": "syrtis"
         },
         "try.bank": {
@@ -550,6 +594,10 @@
         }
     },
     "pages/accounting_demo/index.ja.yml": {
+        "document_title": {
+            "hash": "568ebc1a2096a3a3314f09550b70fc99",
+            "engine": "syrtis"
+        },
         "intro": {
             "hash": "c786b235521347de905a3992131b8122",
             "engine": "syrtis"
@@ -571,7 +619,7 @@
             "engine": "syrtis"
         },
         "page_title": {
-            "hash": "a6942fc2e03b73630d5fbb18c4f66e8f",
+            "hash": "30e5363b22c7a20e17de2d90b42fe518",
             "engine": "syrtis"
         },
         "try.bank": {
@@ -600,6 +648,10 @@
         }
     },
     "pages/accounting_demo/index.ko.yml": {
+        "document_title": {
+            "hash": "568ebc1a2096a3a3314f09550b70fc99",
+            "engine": "syrtis"
+        },
         "intro": {
             "hash": "c786b235521347de905a3992131b8122",
             "engine": "syrtis"
@@ -621,7 +673,7 @@
             "engine": "syrtis"
         },
         "page_title": {
-            "hash": "a6942fc2e03b73630d5fbb18c4f66e8f",
+            "hash": "30e5363b22c7a20e17de2d90b42fe518",
             "engine": "syrtis"
         },
         "try.bank": {
@@ -650,6 +702,10 @@
         }
     },
     "pages/accounting_demo/index.nl.yml": {
+        "document_title": {
+            "hash": "568ebc1a2096a3a3314f09550b70fc99",
+            "engine": "syrtis"
+        },
         "intro": {
             "hash": "c786b235521347de905a3992131b8122",
             "engine": "syrtis"
@@ -671,7 +727,7 @@
             "engine": "syrtis"
         },
         "page_title": {
-            "hash": "a6942fc2e03b73630d5fbb18c4f66e8f",
+            "hash": "30e5363b22c7a20e17de2d90b42fe518",
             "engine": "syrtis"
         },
         "try.bank": {
@@ -700,6 +756,10 @@
         }
     },
     "pages/accounting_demo/index.pl.yml": {
+        "document_title": {
+            "hash": "568ebc1a2096a3a3314f09550b70fc99",
+            "engine": "syrtis"
+        },
         "intro": {
             "hash": "c786b235521347de905a3992131b8122",
             "engine": "syrtis"
@@ -721,7 +781,7 @@
             "engine": "syrtis"
         },
         "page_title": {
-            "hash": "a6942fc2e03b73630d5fbb18c4f66e8f",
+            "hash": "30e5363b22c7a20e17de2d90b42fe518",
             "engine": "syrtis"
         },
         "try.bank": {
@@ -750,6 +810,10 @@
         }
     },
     "pages/accounting_demo/index.pt_BR.yml": {
+        "document_title": {
+            "hash": "568ebc1a2096a3a3314f09550b70fc99",
+            "engine": "syrtis"
+        },
         "intro": {
             "hash": "c786b235521347de905a3992131b8122",
             "engine": "syrtis"
@@ -771,7 +835,7 @@
             "engine": "syrtis"
         },
         "page_title": {
-            "hash": "a6942fc2e03b73630d5fbb18c4f66e8f",
+            "hash": "30e5363b22c7a20e17de2d90b42fe518",
             "engine": "syrtis"
         },
         "try.bank": {
@@ -800,6 +864,10 @@
         }
     },
     "pages/accounting_demo/index.ru.yml": {
+        "document_title": {
+            "hash": "568ebc1a2096a3a3314f09550b70fc99",
+            "engine": "syrtis"
+        },
         "intro": {
             "hash": "c786b235521347de905a3992131b8122",
             "engine": "syrtis"
@@ -821,7 +889,7 @@
             "engine": "syrtis"
         },
         "page_title": {
-            "hash": "a6942fc2e03b73630d5fbb18c4f66e8f",
+            "hash": "30e5363b22c7a20e17de2d90b42fe518",
             "engine": "syrtis"
         },
         "try.bank": {
@@ -850,6 +918,10 @@
         }
     },
     "pages/accounting_demo/index.th.yml": {
+        "document_title": {
+            "hash": "568ebc1a2096a3a3314f09550b70fc99",
+            "engine": "syrtis"
+        },
         "intro": {
             "hash": "c786b235521347de905a3992131b8122",
             "engine": "syrtis"
@@ -871,7 +943,7 @@
             "engine": "syrtis"
         },
         "page_title": {
-            "hash": "a6942fc2e03b73630d5fbb18c4f66e8f",
+            "hash": "30e5363b22c7a20e17de2d90b42fe518",
             "engine": "syrtis"
         },
         "try.bank": {
@@ -900,6 +972,10 @@
         }
     },
     "pages/accounting_demo/index.tr.yml": {
+        "document_title": {
+            "hash": "568ebc1a2096a3a3314f09550b70fc99",
+            "engine": "syrtis"
+        },
         "intro": {
             "hash": "c786b235521347de905a3992131b8122",
             "engine": "syrtis"
@@ -921,7 +997,7 @@
             "engine": "syrtis"
         },
         "page_title": {
-            "hash": "a6942fc2e03b73630d5fbb18c4f66e8f",
+            "hash": "30e5363b22c7a20e17de2d90b42fe518",
             "engine": "syrtis"
         },
         "try.bank": {
@@ -950,6 +1026,10 @@
         }
     },
     "pages/accounting_demo/index.ur.yml": {
+        "document_title": {
+            "hash": "568ebc1a2096a3a3314f09550b70fc99",
+            "engine": "syrtis"
+        },
         "intro": {
             "hash": "c786b235521347de905a3992131b8122",
             "engine": "syrtis"
@@ -971,7 +1051,7 @@
             "engine": "syrtis"
         },
         "page_title": {
-            "hash": "a6942fc2e03b73630d5fbb18c4f66e8f",
+            "hash": "30e5363b22c7a20e17de2d90b42fe518",
             "engine": "syrtis"
         },
         "try.bank": {
@@ -1000,6 +1080,10 @@
         }
     },
     "pages/accounting_demo/index.vi.yml": {
+        "document_title": {
+            "hash": "568ebc1a2096a3a3314f09550b70fc99",
+            "engine": "syrtis"
+        },
         "intro": {
             "hash": "c786b235521347de905a3992131b8122",
             "engine": "syrtis"
@@ -1021,7 +1105,7 @@
             "engine": "syrtis"
         },
         "page_title": {
-            "hash": "a6942fc2e03b73630d5fbb18c4f66e8f",
+            "hash": "30e5363b22c7a20e17de2d90b42fe518",
             "engine": "syrtis"
         },
         "try.bank": {
@@ -1050,6 +1134,10 @@
         }
     },
     "pages/accounting_demo/index.zh.yml": {
+        "document_title": {
+            "hash": "568ebc1a2096a3a3314f09550b70fc99",
+            "engine": "syrtis"
+        },
         "intro": {
             "hash": "c786b235521347de905a3992131b8122",
             "engine": "syrtis"
@@ -1071,7 +1159,7 @@
             "engine": "syrtis"
         },
         "page_title": {
-            "hash": "a6942fc2e03b73630d5fbb18c4f66e8f",
+            "hash": "30e5363b22c7a20e17de2d90b42fe518",
             "engine": "syrtis"
         },
         "try.bank": {

@@ -17,7 +17,8 @@ en:
     close: Fiscal years — check the year, then close and reopen it.
 
 fr:
-  page_title: Scénarios
+  page_title: 'Scénarios comptables'
+  document_title: 'Démo comptable — un grand livre français et un grand livre belge'
   page_description: "Deux dossiers comptables d'exemple à explorer — un atelier français et un atelier belge — avec factures, avoirs, rapprochement bancaire, déclarations de TVA et clôture d'exercice."
   page_icon: 'ph:bold/list-checks'
   intro: 'Deux livres comptables fictifs, créés lors de votre première visite. Modifiez tout : les écrans sont ceux que vous trouverez dans une application.'
@@ -34,8 +35,9 @@ fr:
     close: "Exercices fiscaux — vérifiez l'année, puis fermez-la et rouvrez-la."
 
 zh:
-  page_title: 场景
-  page_description: "两个可探索的示例账本——一家法国作坊和一家比利时作坊——包含发票、贷项通知单、银行对账、增值税申报和年度结账。"
+  page_title: 会计场景
+  document_title: '会计演示 — 法国和比利时的账本'
+  page_description: 两个可探索的示例账本——一家法国作坊和一家比利时作坊——包含发票、贷项通知单、银行对账、增值税申报和年度结账。
   page_icon: 'ph:bold/list-checks'
   intro: 两个虚构的账簿，在您第一次访问时创建。可以随意更改：这些屏幕就是应用程序所使用的。
   open: 打开账簿
@@ -51,8 +53,9 @@ zh:
     close: '财政年度 — 检查年份，然后关闭并重新打开。'
 
 ar:
-  page_title: السيناريوهات
-  page_description: "سجلّان نموذجيان للاستكشاف — ورشة فرنسية وأخرى بلجيكية — مع الفواتير، والإشعارات الدائنة، والمطابقة البنكية، وإقرارات ضريبة القيمة المضافة، وإقفال السنة المالية."
+  page_title: 'سيناريوهات المحاسبة'
+  document_title: 'عرض المحاسبة - دفتر أستاذ فرنسي وبلجيكي'
+  page_description: 'سجلّان نموذجيان للاستكشاف — ورشة فرنسية وأخرى بلجيكية — مع الفواتير، والإشعارات الدائنة، والمطابقة البنكية، وإقرارات ضريبة القيمة المضافة، وإقفال السنة المالية.'
   page_icon: 'ph:bold/list-checks'
   intro: 'دفترين خياليين، كُتبا في زيارتك الأولى. غيّر أي شيء: الشاشات هي تلك التي تظهر في التطبيق.'
   open: 'فتح السجلات'
@@ -68,8 +71,9 @@ ar:
     close: 'السنوات المالية — تحقق من السنة، ثم أغلقها وأعد فتحها.'
 
 hi:
-  page_title: परिदृश्य
-  page_description: "खोजने के लिए दो नमूना लेजर — एक फ़्रांसीसी और एक बेल्जियाई कार्यशाला — चालान, क्रेडिट नोट, बैंक मिलान, VAT रिटर्न और वित्तीय वर्ष समापन के साथ।"
+  page_title: 'लेखांकन परिदृश्य'
+  document_title: 'लेखांकन डेमो — एक फ्रांसीसी और एक बेल्जियन खाता'
+  page_description: 'खोजने के लिए दो नमूना लेजर — एक फ़्रांसीसी और एक बेल्जियाई कार्यशाला — चालान, क्रेडिट नोट, बैंक मिलान, VAT रिटर्न और वित्तीय वर्ष समापन के साथ।'
   page_icon: 'ph:bold/list-checks'
   intro: 'आपकी पहली यात्रा पर लिखी गई दो काल्पनिक लेजर। कुछ भी बदलें: स्क्रीन वही हैं जो एक एप्लिकेशन प्राप्त करता है।'
   open: 'किताबें खोलें'
@@ -85,8 +89,9 @@ hi:
     close: 'वित्तीय वर्ष — वर्ष की जांच करें, फिर इसे बंद करें और फिर से खोलें।'
 
 he:
-  page_title: תסריטים
-  page_description: "שני פנקסים לדוגמה לחקירה — סדנה צרפתית וסדנה בלגית — עם חשבוניות, הודעות זיכוי, התאמות בנק, דוחות מע״מ וסגירת שנת כספים."
+  page_title: 'תסריטי חשבונאות'
+  document_title: 'דמו חשבונאי — פנקס צרפתי ופנקס בלגי'
+  page_description: 'שני פנקסים לדוגמה לחקירה — סדנה צרפתית וסדנה בלגית — עם חשבוניות, הודעות זיכוי, התאמות בנק, דוחות מע״מ וסגירת שנת כספים.'
   page_icon: 'ph:bold/list-checks'
   intro: 'שני יומני דמה, שנכתבו בביקור הראשון שלך. שנה הכל: המסכים הם אלה שהיישום מקבל.'
   open: 'פתח את הספרים'
@@ -102,8 +107,9 @@ he:
     close: 'שנים פיסקליות — בדוק את השנה, ואז סגור ופתח אותה מחדש.'
 
 fa:
-  page_title: سناریوها
-  page_description: "دو دفتر نمونه برای کاوش — یک کارگاه فرانسوی و یک کارگاه بلژیکی — با فاکتورها، یادداشت‌های بستانکار، تطبیق بانکی، اظهارنامه‌های مالیات بر ارزش افزوده و بستن سال مالی."
+  page_title: 'سناریوهای حسابداری'
+  document_title: 'نمایش حسابداری — یک دفتر کل فرانسوی و یک دفتر کل بلژیکی'
+  page_description: 'دو دفتر نمونه برای کاوش — یک کارگاه فرانسوی و یک کارگاه بلژیکی — با فاکتورها، یادداشت‌های بستانکار، تطبیق بانکی، اظهارنامه‌های مالیات بر ارزش افزوده و بستن سال مالی.'
   page_icon: 'ph:bold/list-checks'
   intro: 'دو دفتر کل خیالی، نوشته شده در اولین بازدید شما. هر چیزی را تغییر دهید: صفحه‌ها همان‌هایی هستند که یک برنامه دریافت می‌کند.'
   open: 'کتاب‌ها را باز کن'
@@ -119,8 +125,9 @@ fa:
     close: 'سال‌های مالی — سال را بررسی کنید، سپس آن را ببندید و دوباره باز کنید.'
 
 ur:
-  page_title: مناظر
-  page_description: "دیکھنے کے لیے دو نمونہ لیجرز — ایک فرانسیسی اور ایک بیلجیئن ورکشاپ — انوائسز، کریڈٹ نوٹس، بینک مطابقت، VAT گوشواروں اور مالی سال کی بندش کے ساتھ۔"
+  page_title: 'محاسبہ کے منظرنامے'
+  document_title: 'محاسبہ کا مظاہرہ — ایک فرانسیسی اور ایک بیلجیی لیجر'
+  page_description: 'دیکھنے کے لیے دو نمونہ لیجرز — ایک فرانسیسی اور ایک بیلجیئن ورکشاپ — انوائسز، کریڈٹ نوٹس، بینک مطابقت، VAT گوشواروں اور مالی سال کی بندش کے ساتھ۔'
   page_icon: 'ph:bold/list-checks'
   intro: 'دو فرضی لیجر، آپ کی پہلی وزٹ پر لکھے گئے۔ کچھ بھی تبدیل کریں: یہ وہ اسکرینیں ہیں جو ایک ایپلیکیشن حاصل کرتی ہے۔'
   open: 'کتابیں کھولیں'
@@ -136,8 +143,9 @@ ur:
     close: 'مالی سال — سال چیک کریں، پھر اسے بند کریں اور دوبارہ کھولیں۔'
 
 ja:
-  page_title: シナリオ
-  page_description: "探索できる2つのサンプル帳簿。フランスとベルギーの工房で、請求書、貸方票、銀行照合、VAT 申告、年度締めを試せます。"
+  page_title: 会計シナリオ
+  document_title: '会計デモ — フランスとベルギーの台帳'
+  page_description: '探索できる2つのサンプル帳簿。フランスとベルギーの工房で、請求書、貸方票、銀行照合、VAT 申告、年度締めを試せます。'
   page_icon: 'ph:bold/list-checks'
   intro: 最初の訪問時に作成された2つの架空の台帳。何でも変更できます：画面はアプリケーションが取得するものです。
   open: 帳簿を開く
@@ -153,8 +161,9 @@ ja:
     close: '会計年度 — 年を確認し、閉じて再度開きます。'
 
 ko:
-  page_title: 시나리오
-  page_description: "둘러볼 수 있는 두 개의 샘플 장부 — 프랑스와 벨기에의 공방 — 송장, 대변 전표, 은행 대사, 부가세 신고, 회계연도 마감까지."
+  page_title: '회계 시나리오'
+  document_title: '회계 데모 — 프랑스 및 벨기에 원장'
+  page_description: '둘러볼 수 있는 두 개의 샘플 장부 — 프랑스와 벨기에의 공방 — 송장, 대변 전표, 은행 대사, 부가세 신고, 회계연도 마감까지.'
   page_icon: 'ph:bold/list-checks'
   intro: '첫 방문 시 작성된 두 개의 가상의 원장입니다. 모든 것을 변경하세요: 화면은 애플리케이션이 표시하는 것입니다.'
   open: '장부 열기'
@@ -170,8 +179,9 @@ ko:
     close: '회계 연도 — 연도를 확인한 후 닫고 다시 여세요.'
 
 bn:
-  page_title: দৃশ্যপট
-  page_description: "অন্বেষণের জন্য দুটি নমুনা খাতা — একটি ফরাসি ও একটি বেলজিয়ান কর্মশালা — চালান, ক্রেডিট নোট, ব্যাংক মিলকরণ, VAT রিটার্ন ও অর্থবছর সমাপনসহ।"
+  page_title: 'হিসাববিজ্ঞান পরিস্থিতি'
+  document_title: 'হিসাববিজ্ঞান ডেমো — একটি ফরাসি এবং একটি বেলজিয়ান লেজার'
+  page_description: 'অন্বেষণের জন্য দুটি নমুনা খাতা — একটি ফরাসি ও একটি বেলজিয়ান কর্মশালা — চালান, ক্রেডিট নোট, ব্যাংক মিলকরণ, VAT রিটার্ন ও অর্থবছর সমাপনসহ।'
   page_icon: 'ph:bold/list-checks'
   intro: 'দুইটি কাল্পনিক বই, আপনার প্রথম সফরের সময় লেখা। কিছু পরিবর্তন করুন: স্ক্রীনগুলি সেইগুলিই যা একটি অ্যাপ্লিকেশন পায়।'
   open: 'বই খুলুন'
@@ -187,8 +197,9 @@ bn:
     close: 'আর্থিক বছর — বছরটি পরীক্ষা করুন, তারপর এটি বন্ধ করুন এবং পুনরায় খুলুন।'
 
 th:
-  page_title: สถานการณ์
-  page_description: "สมุดบัญชีตัวอย่างสองเล่มให้สำรวจ — โรงงานฝรั่งเศสและเบลเยียม — พร้อมใบแจ้งหนี้ ใบลดหนี้ การกระทบยอดธนาคาร การยื่นภาษีมูลค่าเพิ่ม และการปิดปีบัญชี"
+  page_title: สถานการณ์บัญชี
+  document_title: 'สาธิตบัญชี — เล่มบัญชีฝรั่งเศสและเบลเยียม'
+  page_description: 'สมุดบัญชีตัวอย่างสองเล่มให้สำรวจ — โรงงานฝรั่งเศสและเบลเยียม — พร้อมใบแจ้งหนี้ ใบลดหนี้ การกระทบยอดธนาคาร การยื่นภาษีมูลค่าเพิ่ม และการปิดปีบัญชี'
   page_icon: 'ph:bold/list-checks'
   intro: 'บัญชีสมมุติสองเล่ม ที่เขียนในครั้งแรกที่คุณเข้าใช้งาน เปลี่ยนแปลงอะไรได้: หน้าจอคือสิ่งที่แอปพลิเคชันจะได้รับ'
   open: เปิดบัญชี
@@ -204,8 +215,9 @@ th:
     close: 'ปีงบประมาณ — ตรวจสอบปี จากนั้นปิดและเปิดใหม่'
 
 de:
-  page_title: Szenarien
-  page_description: "Zwei Beispielmandanten zum Erkunden — eine französische und eine belgische Werkstatt — mit Rechnungen, Gutschriften, Bankabgleich, Umsatzsteuererklärungen und Jahresabschluss."
+  page_title: Buchhaltungs-Szenarien
+  document_title: 'Buchhaltungsdemo — ein französisches und ein belgisches Hauptbuch'
+  page_description: 'Zwei Beispielmandanten zum Erkunden — eine französische und eine belgische Werkstatt — mit Rechnungen, Gutschriften, Bankabgleich, Umsatzsteuererklärungen und Jahresabschluss.'
   page_icon: 'ph:bold/list-checks'
   intro: 'Zwei erfundene Bücher, erstellt bei Ihrem ersten Besuch. Ändern Sie alles: die Bildschirme sind die, die eine Anwendung erhält.'
   open: 'Bücher öffnen'
@@ -221,8 +233,9 @@ de:
     close: 'Geschäftsjahre — das Jahr überprüfen, dann schließen und wieder öffnen.'
 
 fi:
-  page_title: Skenaariot
-  page_description: "Kaksi tutkittavaa esimerkkikirjanpitoa — ranskalainen ja belgialainen verstas — laskuineen, hyvityslaskuineen, pankkitäsmäytyksineen, ALV-ilmoituksineen ja tilikauden päätöksineen."
+  page_title: 'Kirjanpidon skenaariot'
+  document_title: 'Kirjanpidon demo — ranskalainen ja belgialainen tilikirja'
+  page_description: 'Kaksi tutkittavaa esimerkkikirjanpitoa — ranskalainen ja belgialainen verstas — laskuineen, hyvityslaskuineen, pankkitäsmäytyksineen, ALV-ilmoituksineen ja tilikauden päätöksineen.'
   page_icon: 'ph:bold/list-checks'
   intro: 'Kaksi kuvitteellista kirjanpitoa, kirjoitettu ensimmäisellä käynnilläsi. Muuta mitä tahansa: näytöt ovat sellaisia, joita sovellus saa.'
   open: 'Avaa kirjat'
@@ -238,8 +251,9 @@ fi:
     close: 'Verovuodet — tarkista vuosi, sulje se ja avaa sitten uudelleen.'
 
 ru:
-  page_title: Сценарии
-  page_description: "Два демонстрационных учёта — французская и бельгийская мастерские — со счетами, кредит-нотами, сверкой с банком, декларациями по НДС и закрытием финансового года."
+  page_title: 'Сценарии бухгалтерского учета'
+  document_title: 'Демонстрация бухгалтерского учета — французская и бельгийская книга учета'
+  page_description: 'Два демонстрационных учёта — французская и бельгийская мастерские — со счетами, кредит-нотами, сверкой с банком, декларациями по НДС и закрытием финансового года.'
   page_icon: 'ph:bold/list-checks'
   intro: 'Два вымышленных реестра, составленных при вашем первом посещении. Измените что угодно: экраны — это то, что получает приложение.'
   open: 'Открыть книги'
@@ -255,8 +269,9 @@ ru:
     close: 'Фискальные годы — проверьте год, затем закройте и заново откройте его.'
 
 pl:
-  page_title: Scenariusze
-  page_description: "Dwie przykładowe księgi do zbadania — francuski i belgijski warsztat — z fakturami, korektami, uzgadnianiem bankowym, deklaracjami VAT i zamknięciem roku obrotowego."
+  page_title: 'Scenariusze księgowe'
+  document_title: 'Demo księgowe — francuski i belgijski dziennik'
+  page_description: 'Dwie przykładowe księgi do zbadania — francuski i belgijski warsztat — z fakturami, korektami, uzgadnianiem bankowym, deklaracjami VAT i zamknięciem roku obrotowego.'
   page_icon: 'ph:bold/list-checks'
   intro: 'Dwa fikcyjne dzienniki, napisane podczas twojej pierwszej wizyty. Zmień cokolwiek: ekrany to te, które otrzymuje aplikacja.'
   open: 'Otwórz księgi'
@@ -272,8 +287,9 @@ pl:
     close: 'Lata podatkowe — sprawdź rok, a następnie zamknij i otwórz go ponownie.'
 
 es:
-  page_title: Escenarios
-  page_description: "Dos contabilidades de ejemplo para explorar — un taller francés y uno belga — con facturas, abonos, conciliación bancaria, declaraciones de IVA y cierre del ejercicio."
+  page_title: 'Escenarios contables'
+  document_title: 'Demostración contable — un libro mayor francés y belga'
+  page_description: 'Dos contabilidades de ejemplo para explorar — un taller francés y uno belga — con facturas, abonos, conciliación bancaria, declaraciones de IVA y cierre del ejercicio.'
   page_icon: 'ph:bold/list-checks'
   intro: 'Dos libros contables ficticios, escritos en tu primera visita. Cambia cualquier cosa: las pantallas son las que se obtienen en una aplicación.'
   open: 'Abrir los libros'
@@ -289,7 +305,8 @@ es:
     close: 'Años fiscales — verificar el año, luego cerrarlo y volver a abrirlo.'
 
 it:
-  page_title: Scenari
+  page_title: 'Scenari contabili'
+  document_title: 'Demo contabile — un libro mastro francese e uno belga'
   page_description: "Due contabilità di esempio da esplorare — un laboratorio francese e uno belga — con fatture, note di credito, riconciliazione bancaria, dichiarazioni IVA e chiusura dell'esercizio."
   page_icon: 'ph:bold/list-checks'
   intro: "Due registri inventati, scritti alla tua prima visita. Cambia qualsiasi cosa: gli schermi sono quelli che un'applicazione riceve."
@@ -306,8 +323,9 @@ it:
     close: "Anni fiscali — controlla l'anno, poi chiudilo e riaprilo."
 
 pt_BR:
-  page_title: Cenários
-  page_description: "Dois livros contábeis de exemplo para explorar — uma oficina francesa e uma belga — com faturas, notas de crédito, conciliação bancária, declarações de IVA e encerramento do exercício."
+  page_title: 'Cenários contábeis'
+  document_title: 'Demonstração contábil — um livro diário francês e um belga'
+  page_description: 'Dois livros contábeis de exemplo para explorar — uma oficina francesa e uma belga — com faturas, notas de crédito, conciliação bancária, declarações de IVA e encerramento do exercício.'
   page_icon: 'ph:bold/list-checks'
   intro: 'Dois livros contábeis fictícios, escritos na sua primeira visita. Altere qualquer coisa: as telas são as que um aplicativo recebe.'
   open: 'Abrir os livros'
@@ -323,8 +341,9 @@ pt_BR:
     close: 'Anos fiscais — verifique o ano, depois feche e reabra.'
 
 tr:
-  page_title: Senaryolar
-  page_description: "Keşfedilecek iki örnek defter — bir Fransız ve bir Belçikalı atölye — faturalar, alacak dekontları, banka mutabakatı, KDV beyannameleri ve mali yıl kapanışıyla."
+  page_title: 'Muhasebe senaryoları'
+  document_title: 'Muhasebe demosu — bir Fransız ve bir Belçika defteri'
+  page_description: 'Keşfedilecek iki örnek defter — bir Fransız ve bir Belçikalı atölye — faturalar, alacak dekontları, banka mutabakatı, KDV beyannameleri ve mali yıl kapanışıyla.'
   page_icon: 'ph:bold/list-checks'
   intro: 'İlk ziyaretinizde yazılmış iki hayali defter. Her şeyi değiştirebilirsiniz: ekranlar bir uygulamanın alacağı ekranlardır.'
   open: 'Defterleri Aç'
@@ -340,8 +359,9 @@ tr:
     close: 'Mali yıllar — yılı kontrol et, ardından kapat ve yeniden aç.'
 
 vi:
-  page_title: 'Kịch bản'
-  page_description: "Hai sổ sách mẫu để khám phá — một xưởng ở Pháp và một xưởng ở Bỉ — với hóa đơn, giấy báo có, đối chiếu ngân hàng, tờ khai VAT và khóa sổ năm tài chính."
+  page_title: 'Các kịch bản kế toán'
+  document_title: 'Bảng kê kế toán — một sổ cái của Pháp và một sổ cái của Bỉ'
+  page_description: 'Hai sổ sách mẫu để khám phá — một xưởng ở Pháp và một xưởng ở Bỉ — với hóa đơn, giấy báo có, đối chiếu ngân hàng, tờ khai VAT và khóa sổ năm tài chính.'
   page_icon: 'ph:bold/list-checks'
   intro: 'Hai sổ cái giả tưởng, được viết trong lần truy cập đầu tiên của bạn. Thay đổi bất cứ điều gì: các màn hình là những gì một ứng dụng nhận được.'
   open: 'Mở sổ sách'
@@ -357,8 +377,9 @@ vi:
     close: 'Năm tài chính — kiểm tra năm, sau đó đóng và mở lại nó.'
 
 id:
-  page_title: Skenario
-  page_description: "Dua buku besar contoh untuk dijelajahi — bengkel Prancis dan Belgia — dengan faktur, nota kredit, rekonsiliasi bank, SPT PPN, dan tutup tahun buku."
+  page_title: 'Skenario Akuntansi'
+  document_title: 'Demo Akuntansi — buku besar Prancis dan Belgia'
+  page_description: 'Dua buku besar contoh untuk dijelajahi — bengkel Prancis dan Belgia — dengan faktur, nota kredit, rekonsiliasi bank, SPT PPN, dan tutup tahun buku.'
   page_icon: 'ph:bold/list-checks'
   intro: 'Dua buku kas fiktif, ditulis pada kunjungan pertama Anda. Ubah apa saja: layar adalah yang didapat aplikasi.'
   open: 'Buka buku'
@@ -374,7 +395,8 @@ id:
     close: 'Tahun fiskal — periksa tahun, lalu tutup dan buka kembali.'
 
 nl:
-  page_title: "Scenario's"
+  page_title: "Boekhoudscenario's"
+  document_title: 'Boekhouddemo — een Franse en een Belgische grootboek'
   page_description: "Twee voorbeeldadministraties om te verkennen — een Franse en een Belgische werkplaats — met facturen, creditnota's, bankafstemming, btw-aangiftes en jaarafsluiting."
   page_icon: 'ph:bold/list-checks'
   intro: 'Twee verzonnen grootboeken, geschreven bij je eerste bezoek. Wijzig iets: de schermen zijn die van een applicatie.'
