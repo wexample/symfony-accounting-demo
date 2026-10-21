@@ -4,7 +4,7 @@ git:
 global:
   name: symfony-accounting-demo
   type: php-package
-  version: 3.0.3
+  version: 3.0.4
 wex:
   migration: 2
   version: 6.0.150

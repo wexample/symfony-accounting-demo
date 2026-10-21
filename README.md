@@ -1,6 +1,6 @@
 # symfony-accounting-demo
 
-Version: 3.0.3
+Version: 3.0.4
 
 A demo of symfony-accounting-ds: a French and a Belgian ledger, their documents, a bank statement and a fiscal year
 
@@ -25,7 +25,7 @@ The suite includes packages for configuration management, file handling, prompts
 
 - php: >=8.5
 - wexample/symfony-helpers: >=18.0.0
-- wexample/symfony-loader: >=24.0.0
+- wexample/symfony-loader: >=25.0.0
 - wexample/symfony-design-system: >=39.0.0
 - wexample/symfony-accounting: >=8.0.0
 - wexample/symfony-accounting-fr: >=5.0.0
